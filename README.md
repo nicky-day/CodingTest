@@ -41,4 +41,7 @@
   - [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)
   - [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906)
   - [숨어있는 숫자의 덧셈(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851)
-  - 
+  - [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813)
+  - [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908)
+  - [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)
+  - [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910)
