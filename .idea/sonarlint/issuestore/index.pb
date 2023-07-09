@@ -31,8 +31,6 @@ Esrc/main/java/org/example/programmers/introduction/몫_구하기.java,f/0/f0c1
 Psrc/main/java/org/example/programmers/introduction/피자_나눠_먹기_(1).java,8/3/83140200260b0484a54db452793ec8b76fc55324
 �
 Psrc/main/java/org/example/programmers/introduction/피자_나눠_먹기_(3).java,9/8/98dfbe65e19defb1cb54b4c62faa6cc875d05f74
-~
-Nsrc/main/java/org/example/programmers/introduction/최댓값_만들기(1).java,0/4/0446bb610c55a20f69f956739a0a997c27903917
 {
 Ksrc/main/java/org/example/programmers/introduction/문자열_뒤집기.java,5/0/50464c2af033717c784d27b84b86e7ae9e0e147b
 
@@ -71,3 +69,15 @@ Hsrc/main/java/org/example/programmers/introduction/배열_자르기.java,3/8/3
 Xsrc/main/java/org/example/programmers/introduction/숨어있는_숫자의_덧셈(1).java,3/9/39c079dff8376c48c1d7331dd63bcfa9101f060d
 {
 Ksrc/main/java/org/example/programmers/introduction/자릿수_더하기.java,6/1/61241ebde3d64f5363fb1b0e679fc8409b52fbef
+~
+Nsrc/main/java/org/example/programmers/introduction/제곱수_판별하기.java,6/f/6f7c9d07ac7df3498fb0cde4f215293587fb3048
+u
+Esrc/main/java/org/example/programmers/introduction/세균_증식.java,7/0/70d500e8ceafb34768f9fe1ead11b4eeb8155e72
+u
+Esrc/main/java/org/example/programmers/introduction/개미_군단.java,e/b/eba4c11b36fa3a75825824ea58f59a46f65dcd1a
+~
+Nsrc/main/java/org/example/programmers/introduction/대문자와_소문자.java,f/f/ff7568b0c4e7463eb565fdb584013fae5e273c9d
+u
+Esrc/main/java/org/example/programmers/introduction/암호_해독.java,7/a/7aedc7f30f81a7d6cc783e305d65a5af35743411
+y
+Isrc/main/java/org/example/programmers/introduction/가위_바위_보.java,9/c/9c052026a1f7c0b4f7254168e37008cd7e141e5f
