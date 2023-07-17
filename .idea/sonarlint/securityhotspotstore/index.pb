@@ -81,3 +81,11 @@ u
 Esrc/main/java/org/example/programmers/introduction/암호_해독.java,7/a/7aedc7f30f81a7d6cc783e305d65a5af35743411
 y
 Isrc/main/java/org/example/programmers/introduction/가위_바위_보.java,9/c/9c052026a1f7c0b4f7254168e37008cd7e141e5f
+{
+Ksrc/main/java/org/example/programmers/introduction/주사위의_개수.java,2/4/24da02f6433f85f354b31245eca01aa39896e04b
+{
+Ksrc/main/java/org/example/programmers/introduction/짝수는_싫어요.java,f/2/f227a4d70f71ae0f9f34e2c44311c6432e5eec0b
+�
+Rsrc/main/java/org/example/programmers/introduction/문자_반복_출력하기.java,1/c/1cc15e2439c253a7f3fe81c627eaef0cbd8e0e27
+�
+Qsrc/main/java/org/example/programmers/introduction/문자열안에_문자열.java,0/e/0ed4d18343e36ba14917db656da15bec96664c7b

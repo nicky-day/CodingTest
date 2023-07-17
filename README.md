@@ -56,4 +56,6 @@
   - [문자열 정렬하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850)
   - [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899)
   - [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834)
-  - 
+
+- 배열
+  - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)

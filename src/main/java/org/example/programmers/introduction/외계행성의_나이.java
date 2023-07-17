@@ -1,7 +1,5 @@
 package org.example.programmers.introduction;
 
-import java.util.Arrays;
-
 class 외계행성의_나이 {
     public String solution(int age) {
         String answer = "";
