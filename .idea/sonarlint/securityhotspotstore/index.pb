@@ -99,3 +99,7 @@ Tsrc/main/java/org/example/programmers/introduction/직각삼각형_출력하기
 Ksrc/main/java/org/example/programmers/introduction/중앙값_구하기.java,6/7/67ceda9d8e7c7de0d38ec270b87d04b270ed447f
 ~
 Nsrc/main/java/org/example/programmers/introduction/외계행성의_나이.java,0/3/037481faed2abef9186c88c5ae99e77a70c89691
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
