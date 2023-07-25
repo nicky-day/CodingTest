@@ -61,3 +61,5 @@
   - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
   - [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
   - [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
+  - [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
+  - 
