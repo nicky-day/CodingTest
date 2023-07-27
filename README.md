@@ -1,5 +1,5 @@
 코딩테스트
-========
+==========
 ----------
 프로그래머스
 ----------
@@ -62,4 +62,6 @@
   - [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
   - [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
   - [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
-  - 
+----------
+- 문자열
+  - [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
