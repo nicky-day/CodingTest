@@ -105,3 +105,5 @@ S
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
 q
 Asrc/main/java/org/example/programmers/array/삼각_달팽이.java,c/5/c5bb5d6703ac73d72bf4ad088d39c97b1d95de86
+q
+Asrc/main/java/org/example/programmers/array/행렬의_곱셈.java,0/8/081db01aa283471819d174290f7c69d0307490d8

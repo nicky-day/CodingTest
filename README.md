@@ -66,3 +66,4 @@
 - 문자열
   - [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
   - [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)
+  - [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)
