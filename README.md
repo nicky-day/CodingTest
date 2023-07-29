@@ -67,3 +67,16 @@
   - [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
   - [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)
   - [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)
+----------
+- SQL
+  - 경기도에 위치한 식품창고 목록 출력하기(https://school.programmers.co.kr/learn/courses/30/lessons/131114)
+  - 흉부외과 또는 일반외과 의사 목록 출력하기(https://school.programmers.co.kr/learn/courses/30/lessons/132203)
+  - 조건에 맞는 회원수 구하기(https://school.programmers.co.kr/learn/courses/30/lessons/131535#qna)
+  - 12세 이하인 여자 환자 목록 출력하기(https://school.programmers.co.kr/learn/courses/30/lessons/132201)
+  - 고양이와 개는 몇 마리 있을까(https://school.programmers.co.kr/learn/courses/30/lessons/59040)
+  - 모든 레코드 조회하기(https://school.programmers.co.kr/learn/courses/30/lessons/59034)
+  - 과일로 만든 아이스크림 고르기(https://school.programmers.co.kr/learn/courses/30/lessons/133025)
+  - 이름에 el이 들어가는 동물 찾기(https://school.programmers.co.kr/learn/courses/30/lessons/59047)
+  - 중복 제거하기(https://school.programmers.co.kr/learn/courses/30/lessons/59408)
+  - 최솟값 구하기(https://school.programmers.co.kr/learn/courses/30/lessons/59038)
+  - 동명 동물 수 찾기(https://school.programmers.co.kr/learn/courses/30/lessons/59041)
