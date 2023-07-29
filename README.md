@@ -40,9 +40,9 @@
   - [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)
   - [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)
   - [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906)
-  - [숨어있는 숫자의 덧셈(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851)
+  - [숨어있는 숫자의 덧셈(1)](https://school.programmer수s.co.kr/learn/courses/30/lessons/120851)
   - [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813)
-  - [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908)
+  - [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/12090에8)
   - [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)
   - [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910) 
   - [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)
@@ -56,12 +56,25 @@
   - [문자열 정렬하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850)
   - [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899)
   - [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834)
+  - [배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844)
+  - [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895)
+  - [피자 나눠 먹기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)
+  - [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897)
+  - [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891)
+  - [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904)
+  - [문자열 정렬하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911)
+  - [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)
+  - [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)
+  - [모스부호(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)
 ----------
 - 배열
   - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
   - [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
   - [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
   - [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
+----------
+- 최대공약수, 최소공배수
+  - [피자 나눠 먹기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)
 ----------
 - 문자열
   - [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)

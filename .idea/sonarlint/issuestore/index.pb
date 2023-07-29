@@ -21,8 +21,6 @@ Asrc/main/java/org/example/programmers/introduction/각도기.java,3/5/35788343
 Ksrc/main/java/org/example/programmers/introduction/나머지_구하기.java,7/f/7fae7ff674694b0e365bdf8bd12e952982004b39
 {
 Ksrc/main/java/org/example/programmers/introduction/배열의_평균값.java,0/4/04547e062eb4d060d96390ecbfa458c1eff1a5ac
-u
-Esrc/main/java/org/example/programmers/introduction/나이_출력.java,0/0/0046ad2e893b76dd5f8a6195899295b6a284650c
 q
 Asrc/main/java/org/example/programmers/introduction/양꼬치.java,f/2/f2db4517231130fed59b6f70d1eda6882b06023a
 u
@@ -91,8 +89,6 @@ Rsrc/main/java/org/example/programmers/introduction/문자_반복_출력하기.j
 Qsrc/main/java/org/example/programmers/introduction/문자열안에_문자열.java,0/e/0ed4d18343e36ba14917db656da15bec96664c7b
 }
 Msrc/main/java/org/example/programmers/introduction/가장_큰_수_찾기.java,6/1/61dde95af2c2eea65555ef325d0e39bd85862074
-�
-Rsrc/main/java/org/example/programmers/introduction/문자열_정렬하기_(1).java,9/0/90a8a47ecc322639f1a08d6a0ccf6432d25012a7
 �
 Tsrc/main/java/org/example/programmers/introduction/직각삼각형_출력하기.java,4/2/426205d5a2a86381aa181b19e143638243796861
 {
