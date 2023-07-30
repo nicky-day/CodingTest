@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <excludeFolder url="file://$MODULE_DIR$/.idea/ZeppelinRemoteNotebooks" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/0/d" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/1/4" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/1/8" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/5/d" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/8/3" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/8/e" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/9/0" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/9/d" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/a/2" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/a/3" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/b/2" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/d/f" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/e/4" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/0/d" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/1/4" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/1/8" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/5/d" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/8/3" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/8/e" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/9/0" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/9/d" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/a/2" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/a/3" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/b/2" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/d/f" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/e/4" />
+      <excludeFolder url="file://$MODULE_DIR$/bin" />
+    </content>
+  </component>
+</module>
