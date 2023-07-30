@@ -1,0 +1,13 @@
+
+c
+java:S1192X"FDefine a constant instead of duplicating this literal "PXPXP" 3 times.(¦Š¶8±§¥¿˜1
+u	java:S135E"YReduce the total number of break and continue statements in this loop to use at most one.(¶‚¦ë8µ§¥¿˜1
+h
+java:S13014"KReplace this "switch" statement by "if" statements to increase readability.(Ÿ÷Õ…8·§¥¿˜1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Çâ¦¿8¸§¥¿˜1
+G
+java:S1197)"*Move the array designators [] to the type.(È›ß£8ó§¥¿˜1
+L
+java:S1197*"*Move the array designators [] to the type.(Îâ‰œüÿÿÿÿ8ó§¥¿˜1
+>	java:S1314""Add a default case to this switch.(Ÿ÷Õ…8ô§¥¿˜1
+T	java:S106Y"9Replace this use of System.out or System.err by a logger.(ãµ‰G8õ§¥¿˜1

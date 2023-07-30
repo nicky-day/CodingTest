@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 class 문자열_정렬하기_1 {
-    public static int[] solution(String my_string) {
+    public int[] solution(String my_string) {
         List<Integer> arrayList = new ArrayList<>();
         for (int i = 0; i < my_string.length(); i++) {
             if (Character.isDigit(my_string.charAt(i))) {

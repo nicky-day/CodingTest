@@ -80,6 +80,7 @@
   - [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
   - [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)
   - [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)
+  - [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
 ----------
 - SQL
   - 경기도에 위치한 식품창고 목록 출력하기(https://school.programmers.co.kr/learn/courses/30/lessons/131114)
