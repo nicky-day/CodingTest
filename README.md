@@ -82,6 +82,7 @@
   - [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)
   - [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
   - [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)
+  - [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 ----------
 - SQL
   - 경기도에 위치한 식품창고 목록 출력하기(https://school.programmers.co.kr/learn/courses/30/lessons/131114)
