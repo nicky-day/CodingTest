@@ -1,5 +1,8 @@
 package org.example.programmers.introduction;
 
+/**
+ * https://hsm-edu-math.tistory.com/582
+ */
 class 구슬을_나누는_경우의_수 {
     public int combination(int n, int r) {
         if (r == 0 || n == r) {
