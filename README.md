@@ -121,6 +121,7 @@
   - [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
   - [문자열 내 p의 개수와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)
   - [다향식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863)
+  - [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)
 ----------
 - SQL
   - [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114)
