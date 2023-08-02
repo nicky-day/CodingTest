@@ -90,6 +90,7 @@
   - [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)
   - [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)
   - [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)
+  - [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)
 ----------
 - 배열
   - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
