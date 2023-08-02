@@ -82,6 +82,7 @@
   - [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)
   - [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)
   - [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902)
+  - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
 ----------
 - 배열
   - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
@@ -94,6 +95,9 @@
 ----------
 - 재귀
   - [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)
+----------
+- 순열과 조합
+  - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
 ----------
 - 문자열
   - [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
