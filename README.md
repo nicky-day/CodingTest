@@ -98,6 +98,7 @@
   - [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)
   - [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)
   - [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)
+  - [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
 ----------
 - 배열
   - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
