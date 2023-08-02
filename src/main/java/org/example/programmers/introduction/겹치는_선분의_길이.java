@@ -9,7 +9,7 @@ class 겹치는_선분의_길이 {
         for (int[] line : lines) {
             int from = Math.min(line[0], line[1]);
             int to = Math.max(line[0], line[1]);
-            for (int i = from; i < to; i++) {
+            for (int i = from + 1; i <= to; i++) {
                 map.merge(i, 1, Integer::sum);
             }
         }
