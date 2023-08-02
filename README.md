@@ -72,6 +72,7 @@
   - [k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)
   - [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)
   - [숨어있는 숫자의 덧셈(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864)
+  - [진료 순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835)
 ----------
 - 배열
   - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
