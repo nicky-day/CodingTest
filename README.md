@@ -69,6 +69,7 @@
   - [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842)
   - [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)
   - [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)
+  - [k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)
 ----------
 - 배열
   - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
