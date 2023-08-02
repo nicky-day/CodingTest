@@ -77,6 +77,7 @@
   - [이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885)
   - [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)
   - [소인수 분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852)
+  - [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912)
 ----------
 - 배열
   - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
