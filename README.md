@@ -81,6 +81,7 @@
   - [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843)
   - [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)
   - [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)
+  - [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902)
 ----------
 - 배열
   - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
