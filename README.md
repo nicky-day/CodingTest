@@ -79,6 +79,7 @@
   - [소인수 분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852)
   - [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912)
   - [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843)
+  - [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)
 ----------
 - 배열
   - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
