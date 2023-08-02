@@ -86,6 +86,7 @@
   - [삼각형의 완성조건(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868)
   - [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)
   - [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)
+  - [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922)
 ----------
 - 배열
   - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
