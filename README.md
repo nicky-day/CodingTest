@@ -91,6 +91,7 @@
   - [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)
   - [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)
   - [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)
+  - [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)
 ----------
 - 배열
   - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
@@ -100,6 +101,7 @@
 ----------
 - 최대공약수, 최소공배수
   - [피자 나눠 먹기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)
+  - [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)
 ----------
 - 재귀
   - [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)
