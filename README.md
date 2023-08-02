@@ -66,6 +66,9 @@
   - [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)
   - [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)
   - [모스부호(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)
+  - [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842)
+  - [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)
+  - [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)
 ----------
 - 배열
   - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
@@ -75,6 +78,9 @@
 ----------
 - 최대공약수, 최소공배수
   - [피자 나눠 먹기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)
+----------
+- 재귀
+  - [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)
 ----------
 - 문자열
   - [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
