@@ -87,6 +87,7 @@
   - [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)
   - [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)
   - [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922)
+  - [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)
 ----------
 - 배열
   - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
