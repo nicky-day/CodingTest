@@ -94,6 +94,7 @@
   - [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)
   - [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871)
   - [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)
+  - [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)
 ----------
 - 배열
   - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
