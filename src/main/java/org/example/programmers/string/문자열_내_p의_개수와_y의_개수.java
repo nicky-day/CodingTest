@@ -11,6 +11,20 @@ class 문자열_내_p의_개수와_y의_개수 {
         // 구한 p의 개수와 y의 개수 비교
         return ps == ys;
     }
+
+    public boolean solution2(String s) {
+        int ps = 0;
+        int ys = 0;
+
+        for (char c : s.toCharArray()) {
+            switch (c) {
+                case 'p', 'P' -> ps++;
+                case 'y', 'Y' -> ys++;
+            }
+        }
+
+        return ps == ys;
+    }
 }
 
 class Main74 {
