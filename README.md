@@ -133,6 +133,7 @@
   - [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)
   - [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
   - [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)
+  - [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)
 ----------
 - SQL
   - [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114)
