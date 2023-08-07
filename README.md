@@ -115,6 +115,7 @@
 - 재귀
   - [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)
   - [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
+  - [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
 ----------
 - 순열과 조합
   - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
