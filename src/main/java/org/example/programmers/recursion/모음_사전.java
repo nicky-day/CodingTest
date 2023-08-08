@@ -23,8 +23,23 @@ class 모음_사전 {
         return words;
     }
 
+    private void generate(String word, List<String> words) {
+        words.add(word);
+
+        if (word.length() == 5) return;
+        for (char c : CHARS) {
+            generate(word + c, words);
+        }
+    }
+
     public int solution(String word) {
         return generate("").indexOf(word);
+    }
+
+    public int solution2(String word) {
+        List<String> words = new ArrayList<>();
+        generate("", words);
+        return words.indexOf(word);
     }
 }
 
