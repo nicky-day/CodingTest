@@ -1,6 +1,8 @@
 package org.example.programmers.brute_force;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 import java.util.stream.IntStream;
 
 class 모의고사 {
@@ -38,6 +40,33 @@ class 모의고사 {
                 .filter(i -> corrects[i] == maxCorrects)
                 .map(i -> i + 1)
                 .toArray();
+    }
+
+    public int[] solution2(int[] answers) {
+        int[] first = {1, 2, 3, 4, 5};
+        int[] second = {2, 1, 2, 3, 2, 4, 2, 5};
+        int[] third = {3, 3, 1, 1, 2, 2, 4, 4, 5, 5};
+
+        int[] score = new int[3];
+        for (int i = 0; i < answers.length; i++) {
+            if (answers[i] == first[i%5]) {
+                score[0]++;
+            }
+            if (answers[i] == second[i%8]) {
+                score[1]++;
+            }
+            if (answers[i] == third[i%10]) {
+                score[2]++;
+            }
+        }
+        int max = Arrays.stream(score).max().getAsInt();
+        List<Integer> list = new ArrayList<>();
+        for (int i = 0; i < score.length; i++) {
+            if (max == score[i]) {
+                list.add(i+1);
+            }
+        }
+        return list.stream().mapToInt(Integer::intValue).toArray();
     }
 }
 
