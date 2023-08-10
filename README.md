@@ -118,6 +118,9 @@
   - [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
   - [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
 ----------
+- 완전탐색
+  - [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
+----------
 - 순열과 조합
   - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
 ----------
