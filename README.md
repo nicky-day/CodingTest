@@ -121,6 +121,7 @@
 - 완전탐색
   - [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
   - [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
+  - [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)
 ----------
 - 순열과 조합
   - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
