@@ -161,3 +161,10 @@
   - [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)
   - [동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041)
   - [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)
+
+----------
+
+리트코드
+----------
+- 배열
+  - [Two Sum](https://leetcode.com/problems/two-sum/)
