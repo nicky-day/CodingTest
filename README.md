@@ -129,6 +129,7 @@
   - [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
   - [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)
   - [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
+  - [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)
 ----------
 - 순열과 조합
   - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
