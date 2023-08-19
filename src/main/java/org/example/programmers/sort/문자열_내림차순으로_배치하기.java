@@ -1,5 +1,8 @@
 package org.example.programmers.sort;
 
+import java.util.Arrays;
+import java.util.Collections;
+
 class 문자열_내림차순으로_배치하기 {
     public String solution(String s) {
         return s.chars()
@@ -9,6 +12,13 @@ class 문자열_내림차순으로_배치하기 {
                         StringBuilder::appendCodePoint,
                         StringBuilder::append)
                 .toString();
+    }
+
+    public String solution2(String s) {
+        String answer = "";
+        String[] array = s.split("");
+        Arrays.sort(array, Collections.reverseOrder());
+        return String.join("", array);
     }
 }
 
