@@ -46,6 +46,7 @@ class 순위_검색 {
         return scores.size() - binarySearch(score, scoresMap.get(key));
     }
 
+    // 점수 리스트에서 검사해야 할 점수보다 크거나 같은 값 중 가장 작은 값의 인덱스를 이진 탐색을 이용하여 찾는다.
     private int binarySearch(int score, List<Integer> scores) {
         // 이진 탐색으로 인덱스 찾기
         int start = 0;
