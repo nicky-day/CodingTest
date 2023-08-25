@@ -1,4 +1,4 @@
-package org.example.programmers.sort;
+package org.example.programmers.binary_search;
 
 import java.util.*;
 import java.util.function.Consumer;

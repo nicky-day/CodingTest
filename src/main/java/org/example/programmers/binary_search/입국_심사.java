@@ -1,4 +1,4 @@
-package org.example.programmers.sort;
+package org.example.programmers.binary_search;
 
 class 입국_심사 {
     public long solution(int n, int[] times) {
