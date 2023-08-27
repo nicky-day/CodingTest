@@ -134,9 +134,13 @@
   - [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
   - [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
 ----------
+- 이진탐색
   - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
   - [입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
   - [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)
+----------
+- 해시
+  - [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
 ----------
 - 순열과 조합
   - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
