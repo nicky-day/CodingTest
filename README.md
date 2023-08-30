@@ -142,6 +142,7 @@
 - 해시
   - [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
   - [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)
+  - [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)
 ----------
 - 순열과 조합
   - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
