@@ -144,6 +144,7 @@
   - [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)
   - [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)
   - [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
+  - [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
 ----------
 - 순열과 조합
   - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
