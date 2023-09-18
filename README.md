@@ -150,6 +150,7 @@
   - 피보나치 수(https://school.programmers.co.kr/learn/courses/30/lessons/12945)
   - 정수 삼각형(https://school.programmers.co.kr/learn/courses/30/lessons/43105)
   - 등굣길(https://school.programmers.co.kr/learn/courses/30/lessons/42898)
+  - 사칙연산(https://school.programmers.co.kr/learn/courses/30/lessons/1843)
 ----------
 - 순열과 조합
   - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
