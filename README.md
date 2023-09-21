@@ -154,6 +154,7 @@
 ----------
 - 스택
   - 올바른 괄호(https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+  - 괄호 회전하기(https://school.programmers.co.kr/learn/courses/30/lessons/76502)
 ----------
 - 순열과 조합
   - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
