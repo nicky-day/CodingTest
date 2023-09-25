@@ -157,6 +157,9 @@
   - 괄호 회전하기(https://school.programmers.co.kr/learn/courses/30/lessons/76502)
   - 주식 가격(https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 ----------
+- 큐
+  - 기능 개발(https://school.programmers.co.kr/learn/courses/30/lessons/42586)
+----------
 - 순열과 조합
   - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
 ----------
