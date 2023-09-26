@@ -159,6 +159,7 @@
 ----------
 - 큐
   - 기능 개발(https://school.programmers.co.kr/learn/courses/30/lessons/42586)
+  - 다리를 지나는 트럭(https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 ----------
 - 순열과 조합
   - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
