@@ -36,8 +36,8 @@ class 방의_개수 {
         vertices.put(v.id, v);
 
         for (int d : arrows) {
-            // 실제로는 2번 이동해서 한 번에 2개의 방이 생성되는 경우
-            for (int i = 0; i < 2; i++); {
+            // 실제로는 2번 이동해서 한 번에 2개의 방이 생성되는 경우(행렬의 크기를 2배로 늘린다고 보면됨)
+            for (int i = 0; i < 2; i++) {
                 int x = v.x + dx[d];
                 int y = v.y + dy[d];
                 String id = Vertex.id(x, y);
@@ -54,8 +54,6 @@ class 방의_개수 {
                 u.connectedVertices.add(v.id);
                 v = vertices.get(id);
             }
-            System.out.println("d : " + vertices);
-            System.out.println(count);
         }
         return count;
     }
