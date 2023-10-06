@@ -163,6 +163,7 @@
 ----------
 - 그래프
   - 순위(https://school.programmers.co.kr/learn/courses/30/lessons/49191)
+  - 방의 개수(https://school.programmers.co.kr/learn/courses/30/lessons/49190)
 ----------
 - 순열과 조합
   - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
