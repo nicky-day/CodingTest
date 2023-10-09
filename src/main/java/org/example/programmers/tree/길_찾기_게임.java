@@ -22,19 +22,20 @@ class 길_찾기_게임 {
 
     private void insert(Node root, Node node) {
         // x 좌표에 따라 root 노드가 나타내는 트리에 node 삽입
+
+        // 왼쪽 서브트리에 삽입
         if (node.x < root.x) {
-            // 왼쪽 서브트리에 삽입
             if (root.left == null) {
                 root.left = node;
             } else {
                 insert(root.left, node);
             }
+        // 오른쪽 서브트리에 삽입
         } else {
-            // 오른쪽 서브트리에 삽입
             if (root.right == null) {
                 root.right = node;
             } else {
-                insert(node.right, node);
+                insert(root.right, node);
             }
         }
     }
@@ -74,6 +75,7 @@ class 길_찾기_게임 {
         for (int i = 0; i < nodes.length; i++) {
             nodes[i] = new Node(i + 1, nodeInfo[i][0], nodeInfo[i][1]);
         }
+
         // 트리의 윗부분부터 순회하기 위해 y 좌표로 내림차순 정렬을 한다.
         Arrays.sort(nodes, (a, b) -> b.y - a.y);
 
@@ -85,9 +87,9 @@ class 길_찾기_게임 {
         List<Integer> postorder = new ArrayList<>();
         post(root, postorder);
 
-        return new int[][] {
+        return new int[][]{
                 preorder.stream().mapToInt(Integer::intValue).toArray(),
-                postorder.stream().mapToInt(Integer::intValue).toArray()
+                postorder.stream().mapToInt(Integer::intValue).toArray(),
         };
     }
 }
