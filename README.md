@@ -168,6 +168,9 @@
 - 트리
   - 길 찾기 게임(https://school.programmers.co.kr/learn/courses/30/lessons/42892)
 ----------
+- 우선순위 큐
+  - 이중 우선순위 큐(https://school.programmers.co.kr/learn/courses/30/lessons/42628)
+----------
 - 순열과 조합
   - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
 ----------
