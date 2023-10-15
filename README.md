@@ -152,6 +152,9 @@
   - 등굣길(https://school.programmers.co.kr/learn/courses/30/lessons/42898)
   - 사칙연산(https://school.programmers.co.kr/learn/courses/30/lessons/1843)
 ----------
+- 투 포인터
+  - 보석 쇼핑(https://school.programmers.co.kr/learn/courses/30/lessons/67258)
+----------
 - 스택
   - 올바른 괄호(https://school.programmers.co.kr/learn/courses/30/lessons/12909)
   - 괄호 회전하기(https://school.programmers.co.kr/learn/courses/30/lessons/76502)
