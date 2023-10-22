@@ -155,6 +155,9 @@
 - 투 포인터
   - 보석 쇼핑(https://school.programmers.co.kr/learn/courses/30/lessons/67258)
 ----------
+- 유니온 파인드
+  - 섬 연결하기(https://school.programmers.co.kr/learn/courses/30/lessons/42861)
+----------
 - 스택
   - 올바른 괄호(https://school.programmers.co.kr/learn/courses/30/lessons/12909)
   - 괄호 회전하기(https://school.programmers.co.kr/learn/courses/30/lessons/76502)
