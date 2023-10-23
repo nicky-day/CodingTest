@@ -157,6 +157,7 @@
 ----------
 - 유니온 파인드
   - 섬 연결하기(https://school.programmers.co.kr/learn/courses/30/lessons/42861)
+  - 호텔 방 배정(https://school.programmers.co.kr/learn/courses/30/lessons/64063)
 ----------
 - 스택
   - 올바른 괄호(https://school.programmers.co.kr/learn/courses/30/lessons/12909)
