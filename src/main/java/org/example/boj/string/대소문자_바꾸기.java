@@ -14,6 +14,16 @@ class 대소문자_바꾸기 {
         }
         return builder.toString();
     }
+
+    public void solution2(String words) {
+        for (int i = 0; i < words.length(); i++) {
+            if ('A' <= words.charAt(i) && words.charAt(i) <= 'Z') {
+                System.out.println((char) ('a' + words.charAt(i) - 'A'));
+            } else {
+                System.out.println((char) ('A' + words.charAt(i) - 'a'));
+            }
+        }
+    }
 }
 
 class Main158 {
