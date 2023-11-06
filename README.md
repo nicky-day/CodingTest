@@ -159,6 +159,9 @@
   - 섬 연결하기(https://school.programmers.co.kr/learn/courses/30/lessons/42861)
   - 호텔 방 배정(https://school.programmers.co.kr/learn/courses/30/lessons/64063)
 ----------
+- 트라이
+  - 가사 검색(https://school.programmers.co.kr/learn/courses/30/lessons/60060)
+----------
 - 스택
   - 올바른 괄호(https://school.programmers.co.kr/learn/courses/30/lessons/12909)
   - 괄호 회전하기(https://school.programmers.co.kr/learn/courses/30/lessons/76502)
@@ -222,3 +225,11 @@
 ----------
 - 문자열
   - [Reverse String](https://leetcode.com/problems/reverse-string/)
+
+
+-----------
+
+백준
+-----------
+- 문자열
+  - [대소문자 바꾸기](https://www.acmicpc.net/problem/2744)
