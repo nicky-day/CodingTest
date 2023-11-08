@@ -233,3 +233,5 @@
 -----------
 - 문자열
   - [대소문자 바꾸기](https://www.acmicpc.net/problem/2744)
+  - [애너그램 만들기](https://www.acmicpc.net/problem/2744)
+  - [단어 공부](https://www.acmicpc.net/problem/1157)

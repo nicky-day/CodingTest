@@ -4,9 +4,9 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 class 대소문자_바꾸기 {
-    public String solution(String words) {
+    public String solution(String word) {
         StringBuilder builder = new StringBuilder();
-        for (char c : words.toCharArray()) {
+        for (char c : word.toCharArray()) {
             builder.append(
                     Character.isLowerCase(c)
                             ? Character.toUpperCase(c)
@@ -15,12 +15,12 @@ class 대소문자_바꾸기 {
         return builder.toString();
     }
 
-    public void solution2(String words) {
-        for (int i = 0; i < words.length(); i++) {
-            if ('A' <= words.charAt(i) && words.charAt(i) <= 'Z') {
-                System.out.println((char) ('a' + words.charAt(i) - 'A'));
+    public void solution2(String word) {
+        for (int i = 0; i < word.length(); i++) {
+            if ('A' <= word.charAt(i) && word.charAt(i) <= 'Z') {
+                System.out.println((char) ('a' + word.charAt(i) - 'A'));
             } else {
-                System.out.println((char) ('A' + words.charAt(i) - 'a'));
+                System.out.println((char) ('A' + word.charAt(i) - 'a'));
             }
         }
     }
@@ -29,10 +29,10 @@ class 대소문자_바꾸기 {
 class Main158 {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        String words = br.readLine();
+        String word = br.readLine();
 
         StringBuilder builder = new StringBuilder();
-        for (char c : words.toCharArray()) {
+        for (char c : word.toCharArray()) {
             builder.append(
                     Character.isLowerCase(c)
                             ? Character.toUpperCase(c)
