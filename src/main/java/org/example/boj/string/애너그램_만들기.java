@@ -33,6 +33,25 @@ class 애너그램_만들기 {
         }
         return cnt;
     }
+
+    public int solution2(String word1, String word2) {
+        int[] count1 = getAlphabetCount(word1);
+        int[] count2 = getAlphabetCount(word2);
+
+        int ans = 0;
+        for (int i = 0; i < 26; i++) {
+            ans += Math.abs(count1[i] - count2[i]);
+        }
+        return ans;
+    }
+
+    public int[] getAlphabetCount(String str) {
+        int[] count = new int[26];
+        for (int i = 0; i < str.length(); i++) {
+            count[str.charAt(i) - 'a']++;
+        }
+        return count;
+    }
 }
 
 class Main159 {
@@ -41,5 +60,6 @@ class Main159 {
         String word1 = "aabbcc";
         String word2 = "xxyybb";
         System.out.println(problem.solution(word1, word2));
+        System.out.println(problem.solution2(word1, word2));
     }
 }
