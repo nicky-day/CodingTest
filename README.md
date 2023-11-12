@@ -236,3 +236,4 @@
   - [애너그램 만들기](https://www.acmicpc.net/problem/2744)
   - [단어 공부](https://www.acmicpc.net/problem/1157)
   - [문서 검색](https://www.acmicpc.net/problem/1543)
+  - [소금 폭탄](https://www.acmicpc.net/problem/13223)
