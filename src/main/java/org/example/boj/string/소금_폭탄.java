@@ -43,6 +43,29 @@ class 소금_폭탄 {
         return resTime + ":" + resMinute + ":" + resSecound;
     }
 
+    public String solution2(String current, String drop) {
+        String[] currentUnit = current.split(":");
+        int currentHour = Integer.parseInt(currentUnit[0]);
+        int currentMinute = Integer.parseInt(currentUnit[1]);
+        int currentSecond = Integer.parseInt(currentUnit[2]);
+        int currentSecondAmount = currentHour * 3600 + currentMinute * 60 + currentSecond;
+
+        String[] dropUnit = drop.split(":");
+        int dropHour = Integer.parseInt(dropUnit[0]);
+        int dropMinute = Integer.parseInt(dropUnit[1]);
+        int dropSecond = Integer.parseInt(dropUnit[2]);
+        int dropSecondAmount = dropHour * 3600 + dropMinute * 60 + dropSecond;
+
+        int needSecondAmound = dropSecondAmount - currentSecondAmount;
+        if (needSecondAmound <= 0) {
+            needSecondAmound += 24 * 3600;
+        }
+        int needHour = needSecondAmound / 3600;
+        int needMinute = (needSecondAmound % 3600) / 60;
+        int needSecond = needSecondAmound % 60;
+
+        return String.format("%02d:%02d:%02d", needHour, needMinute, needSecond);
+    }
 }
 
 class Main162 {
