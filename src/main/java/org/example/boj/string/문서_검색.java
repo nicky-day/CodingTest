@@ -19,6 +19,25 @@ class 문서_검색 {
         }
         return result;
     }
+
+    public int solution2(String document, String word) {
+        int count = 0;
+        int startIndex = 0;
+
+        while (true) {
+            int findIndex = document.indexOf(word, startIndex);
+            if (findIndex < 0) break;
+            count++;
+            startIndex = findIndex + word.length();
+        }
+        return count;
+    }
+
+    public int solution3(String document, String word) {
+        String replaced = document.replace(word, "");
+        int length = document.length() - replaced.length();
+        return length / word.length();
+    }
 }
 
 class Main161 {
