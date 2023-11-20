@@ -237,3 +237,9 @@
   - [단어 공부](https://www.acmicpc.net/problem/1157)
   - [문서 검색](https://www.acmicpc.net/problem/1543)
   - [소금 폭탄](https://www.acmicpc.net/problem/13223)
+----------
+- 시간 복잡도
+  - [개미](https://www.acmicpc.net/problem/10158)
+----------
+- 배열
+  - [성 지키기](https://www.acmicpc.net/problem/1236)
