@@ -249,6 +249,7 @@
 ----------
 - 완전탐색
   - [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+  - [진법 변환2](https://www.acmicpc.net/problem/11005)
 ----------
 - 정렬
   - [단어 정렬](https://www.acmicpc.net/problem/1181)
