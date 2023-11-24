@@ -254,3 +254,4 @@
 ----------
 - 정렬
   - [단어 정렬](https://www.acmicpc.net/problem/1181)
+  - [수 정렬하기](https://www.acmicpc.net/problem/2751)
