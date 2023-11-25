@@ -251,6 +251,7 @@
   - [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
   - [진법 변환](https://www.acmicpc.net/problem/2745)
   - [진법 변환2](https://www.acmicpc.net/problem/11005)
+  - [완전제곱수](https://www.acmicpc.net/problem/1977)
 ----------
 - 정렬
   - [단어 정렬](https://www.acmicpc.net/problem/1181)
