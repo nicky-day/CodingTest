@@ -253,6 +253,7 @@
   - [진법 변환2](https://www.acmicpc.net/problem/11005)
   - [완전제곱수](https://www.acmicpc.net/problem/1977)
   - [유레카 이론](https://www.acmicpc.net/problem/10448)
+  - [단순한 문제(Small)](https://www.acmicpc.net/problem/25494)
 ----------
 - 정렬
   - [단어 정렬](https://www.acmicpc.net/problem/1181)
