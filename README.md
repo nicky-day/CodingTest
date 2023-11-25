@@ -257,3 +257,4 @@
   - [수 정렬하기](https://www.acmicpc.net/problem/2751)
   - [나이순 정렬](https://www.acmicpc.net/problem/10814)
   - [회사에 있는 사람](https://www.acmicpc.net/problem/7785)
+  - [베스트셀러](https://www.acmicpc.net/problem/1302)
