@@ -260,6 +260,7 @@
   - [완전 세제곱](https://www.acmicpc.net/problem/4690)
   - [수학적 호기심](https://www.acmicpc.net/problem/9094)
   - [지각](https://www.acmicpc.net/problem/10419)
+  - [2017 연세대학교 프로그래밍 경진대회](https://www.acmicpc.net/problem/14568)
 ----------
 - 정렬
   - [단어 정렬](https://www.acmicpc.net/problem/1181)
