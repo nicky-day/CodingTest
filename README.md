@@ -255,6 +255,7 @@
   - [유레카 이론](https://www.acmicpc.net/problem/10448)
   - [단순한 문제(Small)](https://www.acmicpc.net/problem/25494)
   - [루트](https://www.acmicpc.net/problem/4619)
+  - [나누기](https://www.acmicpc.net/problem/1075)
 ----------
 - 정렬
   - [단어 정렬](https://www.acmicpc.net/problem/1181)
