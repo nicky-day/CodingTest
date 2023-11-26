@@ -258,6 +258,7 @@
   - [나누기](https://www.acmicpc.net/problem/1075)
   - [완전 제곱수](https://www.acmicpc.net/problem/6131)
   - [완전 세제곱](https://www.acmicpc.net/problem/4690)
+  - [수학적 호기심](https://www.acmicpc.net/problem/9094)
 ----------
 - 정렬
   - [단어 정렬](https://www.acmicpc.net/problem/1181)
