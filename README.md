@@ -264,6 +264,7 @@
   - [2018 연세대학교 프로그래밍 경진대회](https://www.acmicpc.net/problem/15667)
   - [도비의 영어 공부](https://www.acmicpc.net/problem/2386)
   - [신기한 수](https://www.acmicpc.net/problem/17618)
+  - [주사위](https://www.acmicpc.net/problem/1233)
 ----------
 - 정렬
   - [단어 정렬](https://www.acmicpc.net/problem/1181)
