@@ -265,6 +265,7 @@
   - [도비의 영어 공부](https://www.acmicpc.net/problem/2386)
   - [신기한 수](https://www.acmicpc.net/problem/17618)
   - [주사위](https://www.acmicpc.net/problem/1233)
+  - [암호제작](https://www.acmicpc.net/problem/1837)
 ----------
 - 정렬
   - [단어 정렬](https://www.acmicpc.net/problem/1181)
