@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-class 완전_세제곱 {
+class 완전_제곱수 {
 }
 
 class Main185 {

@@ -256,7 +256,7 @@
   - [단순한 문제(Small)](https://www.acmicpc.net/problem/25494)
   - [루트](https://www.acmicpc.net/problem/4619)
   - [나누기](https://www.acmicpc.net/problem/1075)
-  - [완전 세제곱](https://www.acmicpc.net/problem/6131)
+  - [완전 제곱수](https://www.acmicpc.net/problem/6131)
 ----------
 - 정렬
   - [단어 정렬](https://www.acmicpc.net/problem/1181)
