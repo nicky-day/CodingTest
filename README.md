@@ -269,6 +269,7 @@
   - [369](https://www.acmicpc.net/problem/17614)
   - [초6 수학](https://www.acmicpc.net/problem/2702)
   - [거리의 합](https://www.acmicpc.net/problem/2399)
+  - [좋은 암호](https://www.acmicpc.net/problem/2061)
 ----------
 - 정렬
   - [단어 정렬](https://www.acmicpc.net/problem/1181)
