@@ -267,6 +267,7 @@
   - [주사위](https://www.acmicpc.net/problem/1233)
   - [암호제작](https://www.acmicpc.net/problem/1837)
   - [369](https://www.acmicpc.net/problem/17614)
+  - [초6 수학](https://www.acmicpc.net/problem/2702)
 ----------
 - 정렬
   - [단어 정렬](https://www.acmicpc.net/problem/1181)
