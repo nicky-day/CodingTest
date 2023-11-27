@@ -272,6 +272,7 @@
   - [좋은 암호](https://www.acmicpc.net/problem/2061)
   - [줄 세우기](https://www.acmicpc.net/problem/1681)
   - [분해합](https://www.acmicpc.net/problem/2231)
+  - [공약수](https://www.acmicpc.net/problem/5618)
 ----------
 - 정렬
   - [단어 정렬](https://www.acmicpc.net/problem/1181)
