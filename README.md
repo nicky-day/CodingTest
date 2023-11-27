@@ -274,6 +274,7 @@
   - [분해합](https://www.acmicpc.net/problem/2231)
   - [공약수](https://www.acmicpc.net/problem/5618)
   - [싱기한 네자리 숫자](https://www.acmicpc.net/problem/6679)
+  - [거꾸로 구구단](https://www.acmicpc.net/problem/13410)
 ----------
 - 정렬
   - [단어 정렬](https://www.acmicpc.net/problem/1181)
