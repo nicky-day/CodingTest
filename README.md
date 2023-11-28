@@ -285,3 +285,4 @@
 ----------
 - 그리디
   - [캠핑](https://www.acmicpc.net/problem/4796)
+  - [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)
