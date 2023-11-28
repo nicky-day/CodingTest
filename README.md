@@ -290,3 +290,4 @@
   - [우유 축제](https://www.acmicpc.net/problem/14720)
   - [5와 6의 차이](https://www.acmicpc.net/problem/2864)
   - [거스름돈](https://www.acmicpc.net/problem/5585)
+  - [욱제는 효도쟁이야!!](https://www.acmicpc.net/problem/14487)
