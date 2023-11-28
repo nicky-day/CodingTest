@@ -288,3 +288,4 @@
   - [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)
   - [전자레인지](https://www.acmicpc.net/problem/10162)
   - [우유 축제](https://www.acmicpc.net/problem/14720)
+  - [5와 6의 차이](https://www.acmicpc.net/problem/2864)
