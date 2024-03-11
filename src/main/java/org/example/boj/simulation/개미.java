@@ -1,4 +1,4 @@
-package org.example.boj.time_complexity;
+package org.example.boj.simulation;
 
 import java.io.BufferedReader;
 import java.io.IOException;
