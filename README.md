@@ -275,6 +275,14 @@
   - [공약수](https://www.acmicpc.net/problem/5618)
   - [싱기한 네자리 숫자](https://www.acmicpc.net/problem/6679)
   - [거꾸로 구구단](https://www.acmicpc.net/problem/13410)
+  - [회문인 수](https://www.acmicpc.net/problem/11068)
+  - [사탕 게임](https://www.acmicpc.net/problem/3085)
+  - [문자열](https://www.acmicpc.net/problem/1120)
+----------
+- 시뮬레이션
+  - [개미](https://www.acmicpc.net/problem/10158)
+  - [ACM 호텔](https://www.acmicpc.net/problem/10250)
+  - [판화](https://www.acmicpc.net/problem/1730)
 ----------
 - 정렬
   - [단어 정렬](https://www.acmicpc.net/problem/1181)
