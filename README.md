@@ -284,6 +284,7 @@
   - [ACM 호텔](https://www.acmicpc.net/problem/10250)
   - [판화](https://www.acmicpc.net/problem/1730)
   - [행운의 바퀴](https://www.acmicpc.net/problem/2840)
+  - [ALP식 투표](https://www.acmicpc.net/problem/2817)
 ----------
 - 정렬
   - [단어 정렬](https://www.acmicpc.net/problem/1181)
