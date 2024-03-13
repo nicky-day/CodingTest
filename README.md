@@ -279,6 +279,7 @@
   - [사탕 게임](https://www.acmicpc.net/problem/3085)
   - [문자열](https://www.acmicpc.net/problem/1120)
   - [셀프넘버](https://www.acmicpc.net/problem/4673)
+  - [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
 ----------
 - 시뮬레이션
   - [개미](https://www.acmicpc.net/problem/10158)
