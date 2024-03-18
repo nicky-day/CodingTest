@@ -1,8 +1,7 @@
 package org.example.boj.sort;
 
 import java.io.*;
-import java.util.Arrays;
-import java.util.Comparator;
+import java.util.*;
 
 class 좌표_압축 {
 }
@@ -39,5 +38,30 @@ class Main223 {
         for (int i = 0; i < N; i++)
             bw.write(ans[i] + " ");
         bw.flush();
+    }
+}
+
+class Main224 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int N = sc.nextInt();
+        Set<Integer> set = new TreeSet<>();
+        String[] input = sc.nextLine().split(" ");
+
+        int[] xs = new int[N];
+        for (int i = 0; i < N; i++) {
+            xs[i] = Integer.parseInt(input[i]);
+            set.add(xs[i]);
+        }
+
+        Map<Integer, Integer> sortedIndex = new HashMap<>();
+        int idx = 0;
+        for (int x : set) {
+            sortedIndex.put(x, idx++);
+        }
+
+        for (int i = 0; i < N; i++) {
+            System.out.print(sortedIndex.get(xs[i]) + " ");
+        }
     }
 }
