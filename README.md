@@ -296,6 +296,7 @@
   - [베스트셀러](https://www.acmicpc.net/problem/1302)
   - [좌표 압축](https://www.acmicpc.net/problem/18870)
   - [빈도 정렬](https://www.acmicpc.net/problem/2910)
+  - [회의실 배정](https://www.acmicpc.net/problem/1931)
 ----------
 - 그리디
   - [캠핑](https://www.acmicpc.net/problem/4796)
