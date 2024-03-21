@@ -295,6 +295,7 @@
   - [회사에 있는 사람](https://www.acmicpc.net/problem/7785)
   - [베스트셀러](https://www.acmicpc.net/problem/1302)
   - [좌표 압축](https://www.acmicpc.net/problem/18870)
+  - [빈도 정렬](https://www.acmicpc.net/problem/2910)
 ----------
 - 그리디
   - [캠핑](https://www.acmicpc.net/problem/4796)
