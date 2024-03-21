@@ -1,6 +1,8 @@
 package org.example.boj.sort;
 
 import java.util.Arrays;
+import java.util.LinkedHashMap;
+import java.util.Map;
 import java.util.Scanner;
 
 class 빈도_정렬 {
@@ -68,6 +70,31 @@ class Main225 {
         for (int i = 0; i <= frequencyIndex; i++) {
             while (frequencies[i].count-- > 0) {
                 System.out.print(frequencies[i].num + " ");
+            }
+        }
+    }
+}
+
+class Main226 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int N = sc.nextInt();
+        int C = sc.nextInt();
+
+        Map<Integer, Integer> messages = new LinkedHashMap<>();   // 순서 보장
+        for (int i = 0; i < N; i++) {
+            int num = sc.nextInt();
+            messages.put(num, messages.getOrDefault(num, 0) + 1);
+        }
+
+        Integer[] frequencies = messages.keySet().toArray(new Integer[messages.size()]);
+        Arrays.sort(frequencies, (o1, o2) -> messages.get(o2) - messages.get(o1));
+
+        for (int frequency : frequencies) {
+            int count = messages.get(frequency);
+            while(count-- > 0) {
+                System.out.print(frequency + " ");
             }
         }
     }
