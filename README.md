@@ -310,4 +310,5 @@
 -----------
 - 구간합
   - [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
+  - [Generic Queries](https://www.acmicpc.net/problem/16713)
 ------------
