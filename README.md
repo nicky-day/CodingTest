@@ -147,40 +147,40 @@
   - [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
 ----------
 - 다이나믹 프로그래밍
-  - 피보나치 수(https://school.programmers.co.kr/learn/courses/30/lessons/12945)
-  - 정수 삼각형(https://school.programmers.co.kr/learn/courses/30/lessons/43105)
-  - 등굣길(https://school.programmers.co.kr/learn/courses/30/lessons/42898)
-  - 사칙연산(https://school.programmers.co.kr/learn/courses/30/lessons/1843)
+  - [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
+  - [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
+  - [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)
+  - [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)
 ----------
 - 투 포인터
-  - 보석 쇼핑(https://school.programmers.co.kr/learn/courses/30/lessons/67258)
+  - [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)
 ----------
 - 유니온 파인드
-  - 섬 연결하기(https://school.programmers.co.kr/learn/courses/30/lessons/42861)
-  - 호텔 방 배정(https://school.programmers.co.kr/learn/courses/30/lessons/64063)
+  - [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
+  - [호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)
 ----------
 - 트라이
-  - 가사 검색(https://school.programmers.co.kr/learn/courses/30/lessons/60060)
+  - [가사 검색](https://school.programmers.co.kr/learn/courses/30/lessons/60060)
 ----------
 - 스택
-  - 올바른 괄호(https://school.programmers.co.kr/learn/courses/30/lessons/12909)
-  - 괄호 회전하기(https://school.programmers.co.kr/learn/courses/30/lessons/76502)
-  - 주식 가격(https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+  - [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+  - [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
+  - [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 ----------
 - 큐
-  - 기능 개발(https://school.programmers.co.kr/learn/courses/30/lessons/42586)
-  - 다리를 지나는 트럭(https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+  - [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
+  - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 ----------
 - 그래프
-  - 순위(https://school.programmers.co.kr/learn/courses/30/lessons/49191)
-  - 방의 개수(https://school.programmers.co.kr/learn/courses/30/lessons/49190)
+  - [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)
+  - [방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)
 ----------
 - 트리
-  - 길 찾기 게임(https://school.programmers.co.kr/learn/courses/30/lessons/42892)
+  - [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)
 ----------
 - 우선순위 큐
-  - 이중 우선순위 큐(https://school.programmers.co.kr/learn/courses/30/lessons/42628)
-  - 디스크 컨트롤러(https://school.programmers.co.kr/learn/courses/30/lessons/42627)
+  - [이중 우선순위 큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
+  - [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
 ----------
 - 순열과 조합
   - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
