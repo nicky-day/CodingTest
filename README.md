@@ -312,4 +312,5 @@
   - [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
   - [Generic Queries](https://www.acmicpc.net/problem/16713)
   - [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
+  - [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951)
 ------------
