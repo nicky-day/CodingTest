@@ -23,7 +23,6 @@ class Main234 {
             int k = sc.nextInt();
             delta[a] += k;
             delta[b + 1] -= k;
-
         }
 
         // 2. 각 칸부터의 변화량을 각 칸에 적용한다.
