@@ -318,4 +318,5 @@
 - 이분탐색
   - [수 찾기](https://www.acmicpc.net/problem/1920)
   - [문자열 집합](https://www.acmicpc.net/problem/14425)
+  - [세 수의 합](https://www.acmicpc.net/problem/2295)
 ------------
