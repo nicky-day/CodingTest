@@ -315,3 +315,6 @@
   - [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951)
   - [생명 게임](https://www.acmicpc.net/problem/17232)
 ------------
+- 이분탐색
+  - [수 찾기](https://www.acmicpc.net/problem/1920)
+------------
