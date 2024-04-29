@@ -59,3 +59,23 @@ class Main239 {
         System.out.println(count);
     }
 }
+
+class Main240 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int N = sc.nextInt();
+        int M = sc.nextInt();
+        String[] arr = new String[N];
+        for (int i = 0; i < N; i++) {
+            arr[i] = sc.next();
+        }
+        Arrays.sort(arr);
+        int count = 0;
+        while (M-- > 0) {
+            String x = sc.next();
+            if (Arrays.binarySearch(arr, x) >= 0)
+                count++;
+        }
+        System.out.println(count);
+    }
+}
