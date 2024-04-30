@@ -2,7 +2,6 @@ package org.example.boj.binary_search;
 
 import java.io.*;
 import java.util.Arrays;
-import java.util.Scanner;
 import java.util.StringTokenizer;
 import java.util.TreeSet;
 
