@@ -325,4 +325,5 @@
   - [나무 자르기](https://www.acmicpc.net/problem/2805)
   - [랜선 자르기](https://www.acmicpc.net/problem/1654)
   - [용돈 관리](https://www.acmicpc.net/problem/6236)
+  - [공유기 설치](https://www.acmicpc.net/problem/2110)
 ------------
