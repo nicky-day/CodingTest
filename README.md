@@ -323,4 +323,5 @@
   - [숫자 카드 2](https://www.acmicpc.net/problem/10816)
   - [정수 제곱근](https://www.acmicpc.net/problem/2417)
   - [나무 자르기](https://www.acmicpc.net/problem/2805)
+  - [랜선 자르기](https://www.acmicpc.net/problem/1654)
 ------------
