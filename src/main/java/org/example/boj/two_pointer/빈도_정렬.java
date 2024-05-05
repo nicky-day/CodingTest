@@ -1,4 +1,4 @@
-package org.example.boj.sort;
+package org.example.boj.two_pointer;
 
 import java.util.Arrays;
 import java.util.LinkedHashMap;
