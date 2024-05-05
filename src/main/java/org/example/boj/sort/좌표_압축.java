@@ -6,6 +6,7 @@ import java.util.*;
 class 좌표_압축 {
 }
 
+// comparator
 class Main223 {
     /**
      * 1. 입력된 좌표를 작은 순으로 정렬한다.
@@ -24,7 +25,6 @@ class Main223 {
 
         Arrays.sort(xs, Comparator.comparingInt(o -> o[0]));
 
-
         int[] ans = new int[N];
         int idx = 0;
         ans[xs[0][1]] = idx;
@@ -41,6 +41,7 @@ class Main223 {
     }
 }
 
+// map
 class Main224 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
