@@ -1,4 +1,4 @@
-package org.example.boj.binary_search;
+package org.example.boj.two_pointer;
 
 import java.io.*;
 import java.util.Arrays;
@@ -154,4 +154,3 @@ class Main258 {
         bw.flush();
     }
 }
-

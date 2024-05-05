@@ -329,4 +329,5 @@
 ------------
 - 투 포인터
   - [수들의 합 2](https://www.acmicpc.net/problem/2003)
+  - [두 용액](https://www.acmicpc.net/problem/2470)
 ------------
