@@ -2,28 +2,9 @@ package org.example.boj.string;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.util.Scanner;
 
 class 대소문자_바꾸기 {
-    public String solution(String word) {
-        StringBuilder builder = new StringBuilder();
-        for (char c : word.toCharArray()) {
-            builder.append(
-                    Character.isLowerCase(c)
-                            ? Character.toUpperCase(c)
-                            : Character.toLowerCase(c));
-        }
-        return builder.toString();
-    }
-
-    public void solution2(String word) {
-        for (int i = 0; i < word.length(); i++) {
-            if ('A' <= word.charAt(i) && word.charAt(i) <= 'Z') {
-                System.out.println((char) ('a' + word.charAt(i) - 'A'));
-            } else {
-                System.out.println((char) ('A' + word.charAt(i) - 'a'));
-            }
-        }
-    }
 }
 
 class Main158 {
@@ -39,5 +20,19 @@ class Main158 {
                             : Character.toLowerCase(c));
         }
         System.out.println(builder.toString());
+    }
+}
+
+class Main267 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String str = sc.next();
+        char[] ans = str.toCharArray();
+        for (int i = 0; i < str.length(); i++) {
+            if ('a' <= ans[i] && ans[i] <= 'z')
+                ans[i] = (char)('A' + ans[i] - 'a');
+            else ans[i] = (char)('a' + ans[i] - 'A');
+        }
+        System.out.println(ans);
     }
 }
