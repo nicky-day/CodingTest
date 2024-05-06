@@ -314,6 +314,7 @@
   - [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)
   - [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951)
   - [생명 게임](https://www.acmicpc.net/problem/17232)
+  - [DNA 비밀번호](https://www.acmicpc.net/problem/12891)
 ------------
 - 이분탐색
   - [수 찾기](https://www.acmicpc.net/problem/1920)
@@ -336,4 +337,5 @@
   - [빈도 정렬](https://www.acmicpc.net/problem/2910)
   - [부분합](https://www.acmicpc.net/problem/1806)
   - [수 고르기](https://www.acmicpc.net/problem/2230)
+  - [DNA 비밀번호](https://www.acmicpc.net/problem/12891)
 ------------
