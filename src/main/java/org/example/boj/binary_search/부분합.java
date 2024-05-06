@@ -1,4 +1,4 @@
-package org.example.boj.two_pointer;
+package org.example.boj.binary_search;
 
 import java.util.Scanner;
 
