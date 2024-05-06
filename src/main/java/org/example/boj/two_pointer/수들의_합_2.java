@@ -5,7 +5,7 @@ import java.util.Scanner;
 class 수들의_합_2 {
 }
 
-// 브루트 포스
+// Brute Force
 class Main254 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -31,7 +31,7 @@ class Main254 {
     }
 }
 
-// 이분탐색 + 누적합
+// Binary Search + Prefix Sum
 class Main255 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -66,7 +66,7 @@ class Main255 {
     }
 }
 
-// 투 포인터
+// Two Pointer
 class Main256 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

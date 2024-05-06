@@ -326,9 +326,12 @@
   - [랜선 자르기](https://www.acmicpc.net/problem/1654)
   - [용돈 관리](https://www.acmicpc.net/problem/6236)
   - [공유기 설치](https://www.acmicpc.net/problem/2110)
+  - [수들의 합 2](https://www.acmicpc.net/problem/2003)
+  - [부분합](https://www.acmicpc.net/problem/1806)
 ------------
 - 투 포인터
   - [수들의 합 2](https://www.acmicpc.net/problem/2003)
   - [두 용액](https://www.acmicpc.net/problem/2470)
   - [빈도 정렬](https://www.acmicpc.net/problem/2910)
+  - [부분합](https://www.acmicpc.net/problem/1806)
 ------------
