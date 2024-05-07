@@ -25,7 +25,7 @@ class 평행 {
     }
 }
 
-class Main136 {
+class Main1 {
     public static void main(String[] args) {
         평행 problem = new 평행();
         int[][] dots = {{1, 4}, {9, 2}, {3, 8}, {11, 6}};

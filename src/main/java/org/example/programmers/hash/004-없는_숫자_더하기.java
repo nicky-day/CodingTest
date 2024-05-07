@@ -20,7 +20,7 @@ class 없는_숫자_더하기 {
     }
 }
 
-class Main139 {
+class Main4 {
     public static void main(String[] args) {
         없는_숫자_더하기 problem = new 없는_숫자_더하기();
         int[] numbers = {1, 2, 3, 4, 6, 7, 8, 0};

@@ -157,6 +157,13 @@
   - [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
   - [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 ----------
+- 해시
+  - [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
+  - [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)
+  - [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)
+  - [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
+  - [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
+----------
 - 재귀
   - [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
   - [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
@@ -178,13 +185,6 @@
 - 우선순위 큐
   - [이중 우선순위 큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
   - [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
-----------
-- 해시
-  - [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
-  - [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)
-  - [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)
-  - [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
-  - [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
 ----------
 - 유니온 파인드
   - [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)

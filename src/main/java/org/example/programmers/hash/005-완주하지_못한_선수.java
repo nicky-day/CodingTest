@@ -21,7 +21,7 @@ class 완주하지_못한_선수 {
     }
 }
 
-class Main140 {
+class Main5 {
     public static void main(String[] args) {
         완주하지_못한_선수 problem = new 완주하지_못한_선수();
         String[] participant = {"leo", "kiki", "eden"};

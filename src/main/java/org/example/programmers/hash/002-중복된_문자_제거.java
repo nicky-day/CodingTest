@@ -18,7 +18,7 @@ class 중복된_문자_제거 {
     }
 }
 
-class Main137 {
+class Main2 {
     public static void main(String[] args) {
         중복된_문자_제거 problem = new 중복된_문자_제거();
         String my_string = "people";

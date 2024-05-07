@@ -19,7 +19,7 @@ class A로_B_만들기 {
     }
 }
 
-class Main138 {
+class Main3 {
     public static void main(String[] args) {
         A로_B_만들기 problem = new A로_B_만들기();
         String before = "olleh";
