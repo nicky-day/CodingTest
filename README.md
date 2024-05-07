@@ -145,6 +145,9 @@
   - [입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
   - [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)
 ----------
+- 투 포인터
+  - [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)
+----------
 - 재귀
   - [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)
   - [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
@@ -163,9 +166,6 @@
   - [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
   - [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)
   - [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)
-----------
-- 투 포인터
-  - [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)
 ----------
 - 유니온 파인드
   - [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)

@@ -38,7 +38,7 @@ class 보석_쇼핑 {
     }
 }
 
-class Main155 {
+class Main1 {
     public static void main(String[] args) {
         보석_쇼핑 problem = new 보석_쇼핑();
         String[] gems = {"DIA", "RUBY", "RUBY", "DIA", "DIA", "EMERALD", "SAPPHIRE", "DIA"};
