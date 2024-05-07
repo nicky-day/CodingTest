@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 class ACM_호텔 {
 }
 
-class Main216 {
+class Main2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int T = Integer.parseInt(br.readLine());

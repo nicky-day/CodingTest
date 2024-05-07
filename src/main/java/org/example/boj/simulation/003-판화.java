@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 class 판화 {
 }
 
-class Main218 {
+class Main3 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());

@@ -6,7 +6,7 @@ import java.util.Scanner;
 class 행운의_바퀴 {
 }
 
-class Main219 {
+class Main4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
