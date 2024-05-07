@@ -7,7 +7,7 @@ import java.util.Scanner;
 class 대소문자_바꾸기 {
 }
 
-class Main158 {
+class Main1_1 {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String word = br.readLine();
@@ -23,7 +23,7 @@ class Main158 {
     }
 }
 
-class Main267 {
+class Main1_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.next();
