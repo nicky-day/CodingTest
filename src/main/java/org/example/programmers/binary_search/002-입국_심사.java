@@ -26,7 +26,7 @@ class 입국_심사 {
     }
 }
 
-class Main134 {
+class Main2 {
     public static void main(String[] args) {
         입국_심사 problem = new 입국_심사();
         int n = 6;

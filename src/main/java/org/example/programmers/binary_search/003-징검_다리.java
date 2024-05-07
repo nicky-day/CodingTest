@@ -39,7 +39,7 @@ class 징검_다리 {
     }
 }
 
-class Main135 {
+class Main3 {
     public static void main(String[] args) {
         징검_다리 problem = new 징검_다리();
         int distance = 25;
