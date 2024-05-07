@@ -1,7 +1,5 @@
 package org.example.boj.sort;
 
-import com.sun.source.tree.Tree;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -11,7 +9,7 @@ class 회사에_있는_사람 {
 }
 
 // Map
-class Main177 {
+class Main4_1 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
@@ -32,7 +30,7 @@ class Main177 {
 }
 
 // Set
-class Main258 {
+class Main4_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

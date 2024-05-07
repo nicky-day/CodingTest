@@ -7,7 +7,7 @@ class 좌표_압축 {
 }
 
 // comparator
-class Main223 {
+class Main6_1 {
     /**
      * 1. 입력된 좌표를 작은 순으로 정렬한다.
      * 2. 정렬된 좌표를 중복을 제거하여 압축된 인덱스를 기록한다.
@@ -42,7 +42,7 @@ class Main223 {
 }
 
 // map
-class Main224 {
+class Main6_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

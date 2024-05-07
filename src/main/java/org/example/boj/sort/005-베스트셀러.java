@@ -8,7 +8,7 @@ import java.util.*;
 class 베스트셀러 {
 }
 
-class Main178 {
+class Main5_1 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
@@ -32,7 +32,7 @@ class Main178 {
     }
 }
 
-class Main259 {
+class Main5_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

@@ -35,7 +35,7 @@ class Frequency {
 }
 
 // Two Pointer
-class Main225 {
+class Main7_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
@@ -76,7 +76,8 @@ class Main225 {
     }
 }
 
-class Main226 {
+// LinkedHashMap
+class Main7_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

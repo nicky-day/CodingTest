@@ -76,6 +76,7 @@ class Main225 {
     }
 }
 
+// LinkedHashMap
 class Main226 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

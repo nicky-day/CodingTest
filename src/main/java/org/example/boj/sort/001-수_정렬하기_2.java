@@ -7,7 +7,7 @@ import java.util.Collections;
 class 수_정렬하기_2 {
 }
 
-class Main174 {
+class Main1 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
