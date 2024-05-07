@@ -124,23 +124,18 @@
   - [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
   - [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
 ----------
-- 최대공약수, 최소공배수
-  - [피자 나눠 먹기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)
-  - [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)
-  - [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)
-----------
-- 재귀
-  - [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)
-  - [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
-  - [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
-  - [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
-----------
 - 완전탐색
   - [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
   - [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
   - [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)
   - [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
   - [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
+----------
+- 재귀
+  - [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)
+  - [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
+  - [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
+  - [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
 ----------
 - 정렬
   - [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
