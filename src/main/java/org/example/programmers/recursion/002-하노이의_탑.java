@@ -38,7 +38,7 @@ class 하노이의_탑 {
     }
 }
 
-class Main117 {
+class Main2{
     public static void main(String[] args) {
         하노이의_탑 problem = new 하노이의_탑();
         int n = 2;

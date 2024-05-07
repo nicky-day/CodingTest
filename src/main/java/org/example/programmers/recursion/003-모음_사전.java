@@ -43,7 +43,7 @@ class 모음_사전 {
     }
 }
 
-class Main118 {
+class Main3 {
     public static void main(String[] args) {
         모음_사전 problem = new 모음_사전();
         String word = "AAAAE";

@@ -158,7 +158,6 @@
   - [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 ----------
 - 재귀
-  - [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)
   - [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
   - [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
   - [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)

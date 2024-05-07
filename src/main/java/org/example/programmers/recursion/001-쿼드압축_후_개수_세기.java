@@ -44,7 +44,7 @@ class 쿼드압축_후_개수_세기 {
     }
 }
 
-class Main116 {
+class Main1 {
     public static void main(String[] args) {
         쿼드압축_후_개수_세기 problem = new 쿼드압축_후_개수_세기();
         int[][] arr = {{1, 1, 0, 0}, {1, 0, 0, 0}, {1, 0, 0, 1}, {1, 1, 1, 1}};
