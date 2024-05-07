@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 class 거스름돈 {
 }
 
-class Main211 {
+class Main6 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int money = Integer.parseInt(br.readLine());

@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 class 캥거루_세마리2 {
 }
 
-class Main213 {
+class Main8 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;

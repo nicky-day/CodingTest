@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 class 세탁소_사장_동혁 {
 }
 
-class Main207 {
+class Main2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int T = Integer.parseInt(br.readLine());

@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 class 전자레인지 {
 }
 
-class Main208 {
+class Main3 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int T = Integer.parseInt(br.readLine());

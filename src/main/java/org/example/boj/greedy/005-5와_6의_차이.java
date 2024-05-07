@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 class 오와_육의_차이 {
 }
 
-class Main210 {
+class Main5 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String[] input = br.readLine().split(" ");

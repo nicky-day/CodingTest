@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 class 캠핑 {
 }
 
-class Main206 {
+class Main1 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int i = 1;

@@ -8,7 +8,7 @@ import java.util.Arrays;
 class 우유_축제 {
 }
 
-class Main209 {
+class Main4 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
