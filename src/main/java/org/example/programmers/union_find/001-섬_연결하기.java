@@ -71,7 +71,7 @@ class 섬_연결하기 {
     }
 }
 
-class Main156 {
+class Main1 {
     public static void main(String[] args) {
         섬_연결하기 problem = new 섬_연결하기();
         int n = 4;

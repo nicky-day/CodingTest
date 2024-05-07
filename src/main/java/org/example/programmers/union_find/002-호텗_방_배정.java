@@ -73,7 +73,7 @@ class 호텗_방_배정 {
     }
 }
 
-class Main157 {
+class Main2 {
     public static void main(String[] args) {
         호텗_방_배정 problem = new 호텗_방_배정();
         long k = 10;
