@@ -92,7 +92,7 @@ class 교점에_별_만들기 {
     }
 }
 
-class Main52 {
+class Main1 {
     public static void main(String[] args) {
         교점에_별_만들기 problem = new 교점에_별_만들기();
         long[][] line = {

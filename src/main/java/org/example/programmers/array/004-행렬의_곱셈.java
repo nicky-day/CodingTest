@@ -19,7 +19,7 @@ class 행렬의_곱셈 {
     }
 }
 
-class Main55 {
+class Main4 {
     public static void main(String[] args) {
         행렬의_곱셈 problem = new 행렬의_곱셈();
         int[][] arr1 = {{1, 4}, {3, 2}, {4, 1}};

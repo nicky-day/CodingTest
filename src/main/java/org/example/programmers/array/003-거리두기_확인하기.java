@@ -77,7 +77,7 @@ class 거리두기_확인하기 {
     }
 }
 
-class Main54 {
+class Main3 {
     public static void main(String[] args) {
         거리두기_확인하기 problem = new 거리두기_확인하기();
         String[][] places =

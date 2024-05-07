@@ -86,7 +86,7 @@ class 삼각_달팽이 {
     }
 }
 
-class Main53 {
+class Main2 {
     public static void main(String[] args) {
         삼각_달팽이 problem = new 삼각_달팽이();
         int n = 4;
