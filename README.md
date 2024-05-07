@@ -172,6 +172,10 @@
   - [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)
   - [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)
 ----------
+- 우선순위 큐
+  - [이중 우선순위 큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
+  - [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
+----------
 - 해시
   - [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
   - [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)
@@ -188,10 +192,6 @@
 ----------
 - 트리
   - [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)
-----------
-- 우선순위 큐
-  - [이중 우선순위 큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
-  - [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
 ----------
 - 순열과 조합
   - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)

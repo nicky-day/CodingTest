@@ -66,7 +66,7 @@ class 이중_우선순위_큐 {
     }
 }
 
-class Main153 {
+class Main1 {
     public static void main(String[] args) {
         이중_우선순위_큐 problem = new 이중_우선순위_큐();
         String[] operations = {"I 16", "I -5643", "D -1", "D 1", "D 1", "I 123", "D -1"};

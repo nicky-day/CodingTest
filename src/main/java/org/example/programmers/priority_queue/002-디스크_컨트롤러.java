@@ -46,7 +46,7 @@ class 디스크_컨트롤러 {
     }
 }
 
-class Main154 {
+class Main2 {
     public static void main(String[] args) {
         디스크_컨트롤러 problem = new 디스크_컨트롤러();
         int[][] jobs = {{0, 3}, {1, 9}, {2, 6}};
