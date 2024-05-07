@@ -5,7 +5,7 @@ import java.util.Scanner;
 class 정수_제곱근 {
 }
 
-class Main249 {
+class Main6 {
     /**
      * mid * mid 에서 overflow가 발생할 수 있다.
      * Long.MAX_VALUE

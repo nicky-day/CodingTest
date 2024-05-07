@@ -5,7 +5,7 @@ import java.util.Scanner;
 class 나무_자르기 {
 }
 
-class Main250 {
+class Main7 {
 
     static boolean isPossible(int[] heights, int cutHeight, int thresholdHeight) {
         long sum = 0;

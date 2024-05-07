@@ -6,7 +6,7 @@ import java.util.Scanner;
 class 공유기_설치 {
 }
 
-class Main253 {
+class Main10 {
 
     static int calculateCount(int[] xs, int m) {
         int pastX = xs[0];

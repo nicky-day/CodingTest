@@ -11,7 +11,7 @@ import java.util.Scanner;
 class 숫자_카드_2 {
 }
 
-class Main246 {
+class Main5_1 {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
 
@@ -33,7 +33,7 @@ class Main246 {
     }
 }
 
-class Main247 {
+class Main5_2 {
 
     static int findLowerBoundIndex(int[] arr, int x) {
         // x 이상의 값이 처음으로 나타나는 위치
@@ -90,7 +90,7 @@ class Main247 {
     }
 }
 
-class Main248 {
+class Main5_3 {
 
     static int findLowerBoundIndex(int[] arr, int x) {
         // x 이상의 값이 처음으로 나타나는 위치

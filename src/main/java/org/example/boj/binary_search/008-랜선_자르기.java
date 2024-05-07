@@ -5,7 +5,7 @@ import java.util.Scanner;
 class 랜선_자르기 {
 }
 
-class Main251 {
+class Main8 {
 
     static long calculateCount(int[] len, long m) {
         long count = 0;

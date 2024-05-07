@@ -1,4 +1,4 @@
-package org.example.boj.two_pointer;
+package org.example.boj.binary_search;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -7,7 +7,7 @@ class 수_고르기 {
 }
 
 // Two Pointer
-class Main261 {
+class Main13_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -37,7 +37,7 @@ class Main261 {
 }
 
 // Binary Search
-class Main262 {
+class Main13_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

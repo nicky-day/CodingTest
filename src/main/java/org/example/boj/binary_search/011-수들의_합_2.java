@@ -1,4 +1,4 @@
-package org.example.boj.two_pointer;
+package org.example.boj.binary_search;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ class 수들의_합_2 {
 }
 
 // Brute Force
-class Main254 {
+class Main11_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
@@ -32,7 +32,7 @@ class Main254 {
 }
 
 // Binary Search + Prefix Sum
-class Main255 {
+class Main11_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
@@ -67,7 +67,7 @@ class Main255 {
 }
 
 // Two Pointer
-class Main256 {
+class Main11_3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

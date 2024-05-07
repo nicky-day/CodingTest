@@ -7,7 +7,7 @@ class 부분합 {
 
 
 // Two Pointer
-class Main259 {
+class Main12_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -38,7 +38,7 @@ class Main259 {
 }
 
 // Binary Search + Prefix Sum
-class Main260 {
+class Main12_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
