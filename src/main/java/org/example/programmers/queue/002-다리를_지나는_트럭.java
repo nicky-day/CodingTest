@@ -37,7 +37,7 @@ class 다리를_지나는_트럭 {
     }
 }
 
-class Main149 {
+class Main2 {
     public static void main(String[] args) {
         다리를_지나는_트럭 problem = new 다리를_지나는_트럭();
         int bridge_length = 2;

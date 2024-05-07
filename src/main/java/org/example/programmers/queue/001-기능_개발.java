@@ -32,7 +32,7 @@ class 기능_개발 {
 
 }
 
-class Main148 {
+class Main1 {
     public static void main(String[] args) {
         기능_개발 problem = new 기능_개발();
         int[] progresses = {93, 30, 55};
