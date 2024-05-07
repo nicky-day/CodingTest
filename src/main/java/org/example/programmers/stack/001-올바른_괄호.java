@@ -19,7 +19,7 @@ class 올바른_괄호 {
     }
 }
 
-class Main145 {
+class Main1 {
     public static void main(String[] args) {
         올바른_괄호 problem = new 올바른_괄호();
         String s = "()()";

@@ -152,6 +152,11 @@
   - [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
   - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 ----------
+- 스택
+  - [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+  - [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
+  - [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+----------
 - 재귀
   - [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)
   - [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
@@ -177,11 +182,6 @@
 ----------
 - 트라이
   - [가사 검색](https://school.programmers.co.kr/learn/courses/30/lessons/60060)
-----------
-- 스택
-  - [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
-  - [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
-  - [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 ----------
 - 그래프
   - [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)

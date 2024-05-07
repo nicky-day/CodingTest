@@ -26,7 +26,7 @@ class 주식_가격 {
     }
 }
 
-class Main147 {
+class Main3 {
     public static void main(String[] args) {
         주식_가격 problem = new 주식_가격();
         int[] prices = {1, 2, 3, 2, 3};
