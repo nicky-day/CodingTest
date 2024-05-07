@@ -8,7 +8,7 @@ import java.util.Scanner;
 class 구간_합_구하기_5 {
 }
 
-class Main232 {
+class Main3_1 {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -42,7 +42,7 @@ class Main232 {
     }
 }
 
-class Main233 {
+class Main3_2 {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

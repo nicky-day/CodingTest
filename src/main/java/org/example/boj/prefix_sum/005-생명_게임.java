@@ -5,7 +5,7 @@ import java.util.Scanner;
 class 생명_게임 {
 }
 
-class Main235 {
+class Main5 {
 
     static int[][] getPrefixSum(char[][] map) {
         int[][] acc = new int[map.length][map[0].length];

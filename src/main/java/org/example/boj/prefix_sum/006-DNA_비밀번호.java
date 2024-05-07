@@ -6,7 +6,7 @@ class DNA_비밀번호 {
 }
 
 // Two Pointer
-class Main263 {
+class Main6_1 {
 
     static int baseToIndex(char alp) {
         if (alp == 'A') return 0;
@@ -55,7 +55,7 @@ class Main263 {
 }
 
 // Brute Force + Prefix Sum
-class Main264 {
+class Main6_2 {
 
     static int baseToIndex(char alp) {
         if (alp == 'A') return 0;
