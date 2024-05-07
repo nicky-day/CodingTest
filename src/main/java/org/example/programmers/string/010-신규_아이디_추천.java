@@ -32,7 +32,7 @@ class 신규_아이디_추천 {
     }
 }
 
-class Main115 {
+class Main10 {
     public static void main(String[] args) {
         신규_아이디_추천 problem = new 신규_아이디_추천();
         String s = "...!@BaT#*..y.abcdefghijklm";

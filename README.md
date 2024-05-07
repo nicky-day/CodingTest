@@ -106,6 +106,18 @@
   - [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)
   - [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)
 ----------
+- 문자열
+  - [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
+  - [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)
+  - [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)
+  - [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
+  - [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)
+  - [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
+  - [문자열 내 p의 개수와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)
+  - [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
+  - [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)
+  - [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)
+----------
 - 배열
   - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)
   - [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
@@ -189,18 +201,6 @@
 ----------
 - 순열과 조합
   - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
-----------
-- 문자열
-  - [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)
-  - [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)
-  - [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)
-  - [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
-  - [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)
-  - [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
-  - [문자열 내 p의 개수와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)
-  - [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
-  - [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)
-  - [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)
 ----------
 - SQL
   - [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114)

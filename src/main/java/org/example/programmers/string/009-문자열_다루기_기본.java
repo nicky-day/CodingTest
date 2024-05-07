@@ -17,7 +17,7 @@ class 문자열_다루기_기본 {
     }
 }
 
-class Main114 {
+class Main9 {
     public static void main(String[] args) {
         문자열_다루기_기본 problem = new 문자열_다루기_기본();
         String s = "1234";

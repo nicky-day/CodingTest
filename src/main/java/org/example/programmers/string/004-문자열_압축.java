@@ -54,7 +54,7 @@ class 문자열_압축 {
     }
 }
 
-class Main71 {
+class Main4 {
     public static void main(String[] args) {
         문자열_압축 problem = new 문자열_압축();
         String s = "abcabcabcabcdededededede";

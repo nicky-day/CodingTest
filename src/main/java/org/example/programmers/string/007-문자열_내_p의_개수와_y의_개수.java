@@ -27,12 +27,10 @@ class 문자열_내_p의_개수와_y의_개수 {
     }
 }
 
-class Main74 {
+class Main7 {
     public static void main(String[] args) {
         문자열_내_p의_개수와_y의_개수 problem = new 문자열_내_p의_개수와_y의_개수();
         String s = "pPoooyY";
         System.out.println(problem.solution(s));
     }
-
-
 }

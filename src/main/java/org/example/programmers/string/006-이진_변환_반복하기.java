@@ -30,7 +30,7 @@ class 이진_변환_반복하기 {
     }
 }
 
-class Main73 {
+class Main6 {
 
     public static void main(String[] args) {
         이진_변환_반복하기 problem = new 이진_변환_반복하기();

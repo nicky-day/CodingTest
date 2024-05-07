@@ -27,7 +27,7 @@ class 이상한_문자_만들기 {
     }
 }
 
-class Main58 {
+class Main3{
     public static void main(String[] args) {
         이상한_문자_만들기 problem = new 이상한_문자_만들기();
         String s = "try hello world";

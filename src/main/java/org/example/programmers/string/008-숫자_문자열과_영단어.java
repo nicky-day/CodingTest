@@ -15,7 +15,7 @@ class 숫자_문자열과_영단어 {
     }
 }
 
-class Main113 {
+class Main8 {
     public static void main(String[] args) {
         숫자_문자열과_영단어 problem = new 숫자_문자열과_영단어();
         String s = "one4seveneight";

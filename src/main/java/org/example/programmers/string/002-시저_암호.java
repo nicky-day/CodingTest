@@ -20,7 +20,7 @@ class 시저_암호 {
     }
 }
 
-class Main57 {
+class Main2 {
     public static void main(String[] args) {
         시저_암호 problem = new 시저_암호();
         String s = "AB";

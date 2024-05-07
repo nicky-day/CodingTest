@@ -21,7 +21,7 @@ class 자연수_뒤집어_배열로_만들기 {
     }
 }
 
-class Main56 {
+class Main1 {
     public static void main(String[] args) {
         자연수_뒤집어_배열로_만들기 problem = new 자연수_뒤집어_배열로_만들기();
         int n = 12345;

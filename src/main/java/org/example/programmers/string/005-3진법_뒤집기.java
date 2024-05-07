@@ -11,7 +11,7 @@ class 삼진법_뒤집기 {
     }
 }
 
-class Main72 {
+class Main5 {
     public static void main(String[] args) {
         삼진법_뒤집기 problem = new 삼진법_뒤집기();
         int n = 45;
