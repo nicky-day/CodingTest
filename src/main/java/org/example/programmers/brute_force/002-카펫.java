@@ -19,7 +19,7 @@ class 카펫 {
     }
 }
 
-class Main120 {
+class Main2 {
     public static void main(String[] args) {
         카펫 problem = new 카펫();
         int brown = 10;

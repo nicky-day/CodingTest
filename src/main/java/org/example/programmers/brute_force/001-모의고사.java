@@ -70,7 +70,7 @@ class 모의고사 {
     }
 }
 
-class Main119 {
+class Main1 {
     public static void main(String[] args) {
         모의고사 problem = new 모의고사();
         int[] answers = {1, 3, 2, 4, 2};

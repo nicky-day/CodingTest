@@ -34,7 +34,7 @@ class 불량_사용자 {
     }
 }
 
-class Main123 {
+class Main5 {
     public static void main(String[] args) {
         불량_사용자 problem = new 불량_사용자();
         String[] user_id = {"frodo", "fradi", "crodo", "abc123", "frodoc"};

@@ -59,7 +59,7 @@ class 수식_최대화 {
     }
 }
 
-class Main121 {
+class Main3 {
     public static void main(String[] args) {
         수식_최대화 problem = new 수식_최대화();
         String expression = "100-200*300-500+20";

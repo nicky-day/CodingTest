@@ -62,7 +62,7 @@ class 소수_찾기 {
 
 }
 
-class Main122 {
+class Main4 {
     public static void main(String[] args) {
         소수_찾기 problem = new 소수_찾기();
         String numbers = "17";
