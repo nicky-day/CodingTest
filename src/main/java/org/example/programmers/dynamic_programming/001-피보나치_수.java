@@ -19,7 +19,7 @@ class 피보나치_수 {
     }
 }
 
-class Main141 {
+class Main1 {
     public static void main(String[] args) {
         피보나치_수 problem = new 피보나치_수();
         int n = 5;

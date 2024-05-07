@@ -117,7 +117,7 @@ class 사칙연산2 {
     }
 }
 
-class Main144 {
+class Main4 {
     public static void main(String[] args) {
         사칙연산 problem = new 사칙연산();
         사칙연산2 problem2 = new 사칙연산2();

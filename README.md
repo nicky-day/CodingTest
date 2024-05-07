@@ -166,18 +166,18 @@
   - [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)
   - [방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)
 ----------
+- 다이나믹 프로그래밍
+  - [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
+  - [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
+  - [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)
+  - [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)
+----------
 - 해시
   - [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
   - [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)
   - [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)
   - [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
   - [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
-----------
-- 다이나믹 프로그래밍
-  - [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
-  - [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
-  - [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)
-  - [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)
 ----------
 - 유니온 파인드
   - [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)

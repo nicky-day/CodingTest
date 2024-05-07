@@ -34,7 +34,7 @@ class 등굣길 {
 
 }
 
-class Main143 {
+class Main3 {
     public static void main(String[] args) {
         등굣길 problem = new 등굣길();
         int m = 4;

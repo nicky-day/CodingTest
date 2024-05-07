@@ -22,7 +22,7 @@ class 정수_삼각형 {
     }
 }
 
-class Main142 {
+class Main2 {
     public static void main(String[] args) {
         정수_삼각형 problem = new 정수_삼각형();
         int[][] triangle = {{7}, {3, 8}, {8, 1, 0}, {2, 7, 4, 4}, {4, 5, 2, 6, 5}};
