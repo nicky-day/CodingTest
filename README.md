@@ -3,7 +3,6 @@
 
 프로그래머스
 ----------
-
 - 입문
   - [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)
   - [두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803)
@@ -203,19 +202,16 @@
   - [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)
   - [동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041)
   - [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)
-
 ----------
 
 리트코드
 ----------
+- 문자열
+  - [Reverse String](https://leetcode.com/problems/reverse-string/)
+----------
 - 배열
   - [Two Sum](https://leetcode.com/problems/two-sum/)
 ----------
-- 문자열
-  - [Reverse String](https://leetcode.com/problems/reverse-string/)
-
-
------------
 
 백준
 -----------

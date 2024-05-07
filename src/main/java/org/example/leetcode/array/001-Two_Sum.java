@@ -20,7 +20,7 @@ class Two_Sum {
     }
 }
 
-class Main125 {
+class Main1 {
     public static void main(String[] args) {
         Two_Sum problem = new Two_Sum();
         int[] nums = {3, 3};

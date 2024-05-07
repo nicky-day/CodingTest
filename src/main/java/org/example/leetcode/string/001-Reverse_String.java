@@ -14,7 +14,7 @@ class Reverse_String {
     }
 }
 
-class Main126 {
+class Main1 {
     public static void main(String[] args) {
         Reverse_String problem = new Reverse_String();
         char[] s = {'h', 'e', 'l', 'l', 'o'};
