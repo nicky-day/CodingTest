@@ -19,7 +19,7 @@ class H_Index {
     }
 }
 
-class Main128 {
+class Main3 {
     public static void main(String[] args) {
         H_Index problem = new H_Index();
         int[] citations = {3, 0, 6, 1, 5};
