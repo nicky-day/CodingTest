@@ -6,7 +6,7 @@ class 수들의_합_2 {
 }
 
 // Brute Force
-class Main254 {
+class Main1_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
@@ -32,7 +32,7 @@ class Main254 {
 }
 
 // Binary Search + Prefix Sum
-class Main255 {
+class Main1_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
@@ -67,7 +67,7 @@ class Main255 {
 }
 
 // Two Pointer
-class Main256 {
+class Main1_3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

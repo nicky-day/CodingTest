@@ -7,7 +7,7 @@ class 수_고르기 {
 }
 
 // Two Pointer
-class Main261 {
+class Main5_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -37,7 +37,7 @@ class Main261 {
 }
 
 // Binary Search
-class Main262 {
+class Main5_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
