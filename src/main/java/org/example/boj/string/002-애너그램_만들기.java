@@ -54,7 +54,7 @@ class 애너그램_만들기 {
     }
 }
 
-class Main159 {
+class Main2 {
     public static void main(String[] args) {
         애너그램_만들기 problem = new 애너그램_만들기();
         String word1 = "aabbcc";

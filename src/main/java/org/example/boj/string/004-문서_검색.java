@@ -40,7 +40,7 @@ class 문서_검색 {
     }
 }
 
-class Main161 {
+class Main4 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String document = br.readLine();

@@ -47,7 +47,7 @@ class 단어_공부 {
     }
 }
 
-class Main160 {
+class Main3 {
     public static void main(String[] args) {
         단어_공부 problem = new 단어_공부();
         String word = "Mississipi";
