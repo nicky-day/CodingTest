@@ -8,7 +8,7 @@ import java.util.Set;
 class 문자열_집합 {
 }
 
-class Main238 {
+class Main2_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
@@ -27,7 +27,7 @@ class Main238 {
     }
 }
 
-class Main239 {
+class Main2_2 {
     static boolean isExist(String[] arr, String x) {
         int l = 0;
         int r = arr.length - 1;
@@ -60,7 +60,7 @@ class Main239 {
     }
 }
 
-class Main240 {
+class Main2_3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

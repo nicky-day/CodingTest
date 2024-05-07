@@ -5,7 +5,7 @@ import java.util.Scanner;
 class 용돈_관리 {
 }
 
-class Main252 {
+class Main9 {
 
     static boolean isPossible(int[] useAmounts, int drawAmount, int maxDrawCount) {
         // 1일차에는 무조건 1번 출금해야 한다.

@@ -9,7 +9,7 @@ class 두_용액 {
 }
 
 // binary search
-class Main244 {
+class Main4_1 {
 
     static int findNearestValue(int[] arr, int leftIndex, int rightIndex, int findValue) {
         int nearestValue = arr[leftIndex];
@@ -55,7 +55,7 @@ class Main244 {
 }
 
 // TreeSet
-class Main245 {
+class Main4_2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -87,7 +87,7 @@ class Main245 {
 }
 
 // Two Pointer 1
-class Main257 {
+class Main4_3 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -118,7 +118,7 @@ class Main257 {
 }
 
 // Two Pointer 2
-class Main258 {
+class Main4_4 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

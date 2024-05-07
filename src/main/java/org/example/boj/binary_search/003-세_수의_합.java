@@ -8,7 +8,7 @@ import java.util.Set;
 class 세_수의_합 {
 }
 
-class Main241 {
+class Main3_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -43,7 +43,7 @@ class Main241 {
     }
 }
 
-class Main242 {
+class Main3_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -79,7 +79,7 @@ class Main242 {
     }
 }
 
-class Main243 {
+class Main3_3 {
 
     static boolean isExist(int[] arr, int x) {
         int l = 0;

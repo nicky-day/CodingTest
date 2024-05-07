@@ -8,7 +8,7 @@ import java.util.Set;
 class 수_찾기 {
 }
 
-class Main236 {
+class Main1_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
@@ -24,7 +24,7 @@ class Main236 {
     }
 }
 
-class Main237 {
+class Main1_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
