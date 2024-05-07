@@ -162,6 +162,10 @@
   - [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
   - [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
 ----------
+- 그래프
+  - [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)
+  - [방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)
+----------
 - 해시
   - [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
   - [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)
@@ -181,10 +185,6 @@
 ----------
 - 트라이
   - [가사 검색](https://school.programmers.co.kr/learn/courses/30/lessons/60060)
-----------
-- 그래프
-  - [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)
-  - [방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)
 ----------
 - 트리
   - [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)

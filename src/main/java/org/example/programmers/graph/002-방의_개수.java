@@ -59,7 +59,7 @@ class 방의_개수 {
     }
 }
 
-class Main151 {
+class Main2 {
     public static void main(String[] args) {
         방의_개수 problem = new 방의_개수();
 //        int[] arrows = {6, 6, 6, 4, 4, 4, 2, 2, 2, 0, 0, 0, 1, 6, 5, 5, 3, 6, 0};

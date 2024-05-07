@@ -47,7 +47,7 @@ class 순위 {
     }
 }
 
-class Main150 {
+class Main1 {
     public static void main(String[] args) {
         순위 problem = new 순위();
         int n = 5;
