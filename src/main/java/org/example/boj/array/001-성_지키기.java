@@ -9,7 +9,7 @@ import java.util.Objects;
 class 성_지키기 {
 }
 
-class Main164 {
+class Main1 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int[] size = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();

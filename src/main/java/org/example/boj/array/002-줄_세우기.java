@@ -8,7 +8,7 @@ import java.util.Arrays;
 class 줄_세우기 {
 }
 
-class Main165 {
+class Main2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

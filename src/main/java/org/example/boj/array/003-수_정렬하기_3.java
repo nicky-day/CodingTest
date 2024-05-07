@@ -5,7 +5,7 @@ import java.io.*;
 class 수_정렬하기_3 {
 }
 
-class Main166 {
+class Main3 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
