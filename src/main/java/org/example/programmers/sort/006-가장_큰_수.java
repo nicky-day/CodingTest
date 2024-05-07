@@ -20,7 +20,7 @@ class 가장_큰_수 {
     }
 }
 
-class Main131 {
+class Main6 {
     public static void main(String[] args) {
         가장_큰_수 problem = new 가장_큰_수();
         int[] numbers = {6, 10, 2};

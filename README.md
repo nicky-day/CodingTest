@@ -131,12 +131,6 @@
   - [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
   - [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
 ----------
-- 재귀
-  - [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)
-  - [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
-  - [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
-  - [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
-----------
 - 정렬
   - [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
   - [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)
@@ -145,6 +139,12 @@
   - [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)
   - [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
   - [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+----------
+- 재귀
+  - [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)
+  - [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)
+  - [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
+  - [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
 ----------
 - 이진탐색
   - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)

@@ -19,7 +19,7 @@ class 두_개_뽑아서_더하기 {
     }
 }
 
-class Main127 {
+class Main2 {
     public static void main(String[] args) {
         두_개_뽑아서_더하기 problem = new 두_개_뽑아서_더하기();
         int[] numbers = {2, 1, 3, 4, 1};

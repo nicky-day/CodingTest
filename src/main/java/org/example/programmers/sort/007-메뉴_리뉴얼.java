@@ -89,7 +89,7 @@ class 메뉴_리뉴얼 {
     }
 }
 
-class Main132 {
+class Main7 {
     public static void main(String[] args) {
         메뉴_리뉴얼 problem = new 메뉴_리뉴얼();
         String[] orders = {"ABCFG", "AC", "CDE", "ACDE", "BCFG", "ACDEH"};

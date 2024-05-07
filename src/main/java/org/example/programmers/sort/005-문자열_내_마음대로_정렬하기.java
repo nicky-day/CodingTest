@@ -14,7 +14,7 @@ class 문자열_내_마음대로_정렬하기 {
     }
 }
 
-class Main130 {
+class Main5 {
     public static void main(String[] args) {
         문자열_내_마음대로_정렬하기 problem = new 문자열_내_마음대로_정렬하기();
         String[] strings = {"sun", "bed", "car"};

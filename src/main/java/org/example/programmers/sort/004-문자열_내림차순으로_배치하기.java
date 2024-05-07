@@ -22,7 +22,7 @@ class 문자열_내림차순으로_배치하기 {
     }
 }
 
-class Main129 {
+class Main4 {
     public static void main(String[] args) {
         문자열_내림차순으로_배치하기 problem = new 문자열_내림차순으로_배치하기();
         String s = "Zbcdefg";

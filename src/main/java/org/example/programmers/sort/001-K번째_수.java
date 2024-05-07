@@ -21,7 +21,7 @@ class K번째_수 {
     }
 }
 
-class Main124 {
+class Main1 {
     public static void main(String[] args) {
         K번째_수 problem = new K번째_수();
         int[] array = {1, 5, 2, 6, 3, 7, 4};
