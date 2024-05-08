@@ -320,4 +320,5 @@
   - [수 고르기](https://www.acmicpc.net/problem/2230)
   - [DNA 비밀번호](https://www.acmicpc.net/problem/12891)
   - [두 개의 탑](https://www.acmicpc.net/problem/2118)
+  - [배열 합치기](https://www.acmicpc.net/problem/11728)
 ------------
