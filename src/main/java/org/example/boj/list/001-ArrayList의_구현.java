@@ -15,10 +15,6 @@ class MyArrayList<E> {
         this(DEFAULT_CAPACITY);
     }
 
-    public int size() {
-        return size;
-    }
-
     public void add(E element) {
         if (size == data.length) {
             growCapacity();
@@ -66,7 +62,22 @@ class MyArrayList<E> {
         size--;
     }
 
+    public int size() {
+        return size;
+    }
+
+    public String toString() {
+        StringBuilder sb = new StringBuilder();
+        sb.append('[');
+        for(int i = 0; i < size; i++) {
+            if (i > 0) sb.append(", ");
+            sb.append(data[i].toString());
+        }
+        sb.append(']');
+        return sb.toString();
+    }
 }
+
 class Main1 {
     public static void main(String[] args) {
 
