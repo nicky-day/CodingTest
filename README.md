@@ -331,4 +331,5 @@
 ------------
 - 큐
   - [큐](https://www.acmicpc.net/problem/10845)
+  - [요세푸스 문제](https://www.acmicpc.net/problem/1158)
 ------------
