@@ -326,3 +326,6 @@
   - [준표의 조약돌](https://www.acmicpc.net/problem/15831)
   - [고냥이](https://www.acmicpc.net/problem/16472)
 ------------
+- 리스트
+  - [요세푸스 문제](https://www.acmicpc.net/problem/1158)
+------------
