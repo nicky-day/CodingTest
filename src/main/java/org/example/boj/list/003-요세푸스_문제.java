@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 class 요세푸스_문제 {
 }
 
-class Main3_1 {
+class Main3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
