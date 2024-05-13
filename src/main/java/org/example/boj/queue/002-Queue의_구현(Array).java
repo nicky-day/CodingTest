@@ -1,7 +1,5 @@
 package org.example.boj.queue;
 
-import java.util.NoSuchElementException;
-
 class MyArrayQueue<E> {
     private Object[] data;
     private int frontIndex;
