@@ -339,4 +339,5 @@
 ------------
 - 스택
   - [스택](https://www.acmicpc.net/problem/10828)
+  - [괄호](https://www.acmicpc.net/problem/9012)
 ------------
