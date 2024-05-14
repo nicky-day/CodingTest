@@ -337,3 +337,6 @@
   - [프린터 큐](https://www.acmicpc.net/problem/1966)
   - [덱](https://www.acmicpc.net/problem/10866)
 ------------
+- 스택
+  - [스택](https://www.acmicpc.net/problem/10828)
+------------
