@@ -218,5 +218,13 @@ class Main4_2 {
                     list.insert(0, ch);
             }
         }
+
+        StringBuilder sb = new StringBuilder();
+        MyLinkedList.Node<Character> seqNode = list.getFirstNode();
+        while (seqNode != null) {
+            sb.append(seqNode.item);
+            seqNode = seqNode.next;
+        }
+        System.out.println(sb.toString());
     }
 }
