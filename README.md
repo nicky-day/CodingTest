@@ -335,4 +335,5 @@
   - [요세푸스 문제](https://www.acmicpc.net/problem/1158)
   - [라우터](https://www.acmicpc.net/problem/15828)
   - [프린터 큐](https://www.acmicpc.net/problem/1966)
+  - [덱](https://www.acmicpc.net/problem/10866)
 ------------
