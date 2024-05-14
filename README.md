@@ -328,6 +328,7 @@
 ------------
 - 리스트
   - [요세푸스 문제](https://www.acmicpc.net/problem/1158)
+  - [에디터](https://www.acmicpc.net/problem/1406)
 ------------
 - 큐
   - [큐](https://www.acmicpc.net/problem/10845)
