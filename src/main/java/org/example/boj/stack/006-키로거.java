@@ -16,15 +16,15 @@ class Main6_1 {
             Deque<Character> beforeCursor = new ArrayDeque<>();
             Deque<Character> afterCursor = new ArrayDeque<>();
             for (char cmd : input) {
-                if (cmd == '-') {
+                if (cmd == '-') {               // 커서 앞 글자 삭제
                     beforeCursor.pollLast();
-                } else if (cmd == '<') {
+                } else if (cmd == '<') {        // 왼쪽으로 커서 이동
                     if (!beforeCursor.isEmpty())
                         afterCursor.offerFirst(beforeCursor.pollLast());
-                } else if (cmd == '>') {
+                } else if (cmd == '>') {        // 오른쪽으로 커서 이동
                     if (!afterCursor.isEmpty())
                         beforeCursor.offerLast(afterCursor.pollFirst());
-                } else
+                } else                          // 커서 앞에 글자 추가
                     beforeCursor.offerLast(cmd);
             }
 
