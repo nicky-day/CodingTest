@@ -347,4 +347,5 @@
   - [키로거](https://www.acmicpc.net/problem/5397)
   - [PPAP](https://www.acmicpc.net/problem/16120)
   - [스택 수열](https://www.acmicpc.net/problem/1874)
+  - [외계인의 기타 연주](https://www.acmicpc.net/problem/2841)
 ------------
