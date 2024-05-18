@@ -348,4 +348,5 @@
   - [PPAP](https://www.acmicpc.net/problem/16120)
   - [스택 수열](https://www.acmicpc.net/problem/1874)
   - [외계인의 기타 연주](https://www.acmicpc.net/problem/2841)
+  - [오큰수](https://www.acmicpc.net/problem/17298)
 ------------
