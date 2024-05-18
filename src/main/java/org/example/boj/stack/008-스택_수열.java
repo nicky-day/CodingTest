@@ -5,7 +5,7 @@ import java.util.Scanner;
 class 스택_수열 {
 }
 
-class Main9 {
+class Main8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
