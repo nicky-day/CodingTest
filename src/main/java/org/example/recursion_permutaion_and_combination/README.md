@@ -1,5 +1,4 @@
 ## 재귀1 순열과 조합 - Permutation and Combination
-----------
 
 백준
 ------------
