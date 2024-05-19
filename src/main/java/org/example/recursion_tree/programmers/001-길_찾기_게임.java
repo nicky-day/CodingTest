@@ -1,4 +1,4 @@
-package org.example.tree.programmers;
+package org.example.recursion_tree.programmers;
 
 import java.util.ArrayList;
 import java.util.Arrays;
