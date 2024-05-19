@@ -1,0 +1,19 @@
+## SQL
+
+프로그래머스
+----------
+| 문제 번호 | 문제 이름 | 문제 링크 | 답안 코드 링크 |
+|:---:|---|:---:|:---:|
+| 131114 | 경기도에 위치한 식품창고 목록 출력하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sql/programmers/001-%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%97%90_%EC%9C%84%EC%B9%98%ED%95%9C_%EC%8B%9D%ED%92%88%EC%B0%BD%EA%B3%A0_%EB%AA%A9%EB%A1%9D_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql) |
+| 132203 | 흉부외과 또는 일반외과 의사 목록 출력하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/132203) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sql/programmers/002-%ED%9D%89%EB%B6%80%EC%99%B8%EA%B3%BC_%EB%98%90%EB%8A%94_%EC%9D%BC%EB%B0%98%EC%99%B8%EA%B3%BC_%EC%9D%98%EC%82%AC_%EB%AA%A9%EB%A1%9D_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql) |
+| 131535 | 조건에 맞는 회원수 구하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/131535#qna) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sql/programmers/003-%EC%A1%B0%EA%B1%B4%EC%97%90_%EB%A7%9E%EB%8A%94_%ED%9A%8C%EC%9B%90%EC%88%98_%EA%B5%AC%ED%95%98%EA%B8%B0.sql) |
+| 132201 | 12세 이하인 여자 환자 목록 출력하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/132201) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sql/programmers/004-12%EC%84%B8_%EC%9D%B4%ED%95%98%EC%9D%B8_%EC%97%AC%EC%9E%90_%ED%99%98%EC%9E%90_%EB%AA%A9%EB%A1%9D_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql) |
+| 59040 | 고양이와 개는 몇 마리 있을까 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/59040) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sql/programmers/005-%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80_%EA%B0%9C%EB%8A%94_%EB%AA%87_%EB%A7%88%EB%A6%AC_%EC%9E%88%EC%9D%84%EA%B9%8C.sql) |
+| 59034 | 모든 레코드 조회하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/59034) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sql/programmers/006-%EB%AA%A8%EB%93%A0_%EB%A0%88%EC%BD%94%EB%93%9C_%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql) |
+| 133025 | 과일로 만든 아이스크림 고르기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/133025) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sql/programmers/007-%EA%B3%BC%EC%9D%BC%EB%A1%9C_%EB%A7%8C%EB%93%A0_%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC_%EA%B3%A0%EB%A5%B4%EA%B8%B0.sql) |
+| 59047 | 이름에 el이 들어가는 동물 찾기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/59047) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sql/programmers/008-%EC%9D%B4%EB%A6%84%EC%97%90_el%EC%9D%B4_%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94_%EB%8F%99%EB%AC%BC_%EC%B0%BE%EA%B8%B0.sql) |
+| 59408 | 중복 제거하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/59408) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sql/programmers/009-%EC%A4%91%EB%B3%B5_%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.sql) |
+| 59038 | 최솟값 구하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/59038) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sql/programmers/010-%EC%B5%9C%EC%86%9F%EA%B0%92_%EA%B5%AC%ED%95%98%EA%B8%B0.sql) |
+| 59041 | 동명 동물 수 찾기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/59041) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sql/programmers/011-%EB%8F%99%EB%AA%85_%EB%8F%99%EB%AC%BC_%EC%88%98_%EC%B0%BE%EA%B8%B0.sql) |
+| 59406 | 동물 수 구하기 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/59406) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sql/programmers/012-%EB%8F%99%EB%AC%BC_%EC%88%98_%EA%B5%AC%ED%95%98%EA%B8%B0.sql) |
+----------
