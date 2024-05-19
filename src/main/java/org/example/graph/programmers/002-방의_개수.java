@@ -1,4 +1,4 @@
-package org.example.programmers.graph;
+package org.example.graph.programmers;
 
 import java.util.HashMap;
 import java.util.HashSet;

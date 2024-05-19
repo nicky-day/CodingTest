@@ -1,4 +1,4 @@
-package org.example.programmers.tree;
+package org.example.tree.programmers;
 
 import java.util.ArrayList;
 import java.util.Arrays;

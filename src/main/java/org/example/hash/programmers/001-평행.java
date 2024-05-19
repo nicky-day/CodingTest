@@ -1,4 +1,4 @@
-package org.example.programmers.hash;
+package org.example.hash.programmers;
 
 import java.util.HashSet;
 import java.util.Set;

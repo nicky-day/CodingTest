@@ -1,4 +1,4 @@
-package org.example.programmers.dynamic_programming;
+package org.example.dynamic_programming.programmers;
 
 import java.util.Arrays;
 

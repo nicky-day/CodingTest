@@ -1,4 +1,4 @@
-package org.example.programmers.priority_queue;
+package org.example.priority_queue.programmers;
 
 import java.util.*;
 

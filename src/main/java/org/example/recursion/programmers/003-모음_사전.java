@@ -1,4 +1,4 @@
-package org.example.programmers.recursion;
+package org.example.recursion.programmers;
 
 import java.util.ArrayList;
 import java.util.List;

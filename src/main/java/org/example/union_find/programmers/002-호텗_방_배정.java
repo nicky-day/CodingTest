@@ -1,4 +1,4 @@
-package org.example.programmers.union_find;
+package org.example.union_find.programmers;
 
 import java.util.*;
 
