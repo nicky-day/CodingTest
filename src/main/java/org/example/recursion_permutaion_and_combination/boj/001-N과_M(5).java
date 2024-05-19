@@ -16,6 +16,7 @@ class Main1 {
     public static int m;
 
     public static void permutation(int depth) {
+        // base case
         if (depth == m) {
             for (int i = 0; i < m; i++) {
                 System.out.print(output[i] + " ");
@@ -24,6 +25,7 @@ class Main1 {
             return;
         }
 
+        // recursive case
         for (int i = 0; i < n; i++) {
             if (!check[i]) {
                 check[i] = true;
