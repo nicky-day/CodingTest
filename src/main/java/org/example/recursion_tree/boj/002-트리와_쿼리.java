@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+class 트리와_쿼리 {
+}
+
 class Main2 {
 
     public static List<Integer>[] tree;
