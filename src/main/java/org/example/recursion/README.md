@@ -14,4 +14,4 @@
 ------------
 | 문제 번호 | 문제 이름 | 문제 링크 | 답안 코드 링크 |
 |:-----:|---|:---:|:---:|
-| 2747  | 피보나치 수 | [링크](https://www.acmicpc.net/problem/2747) | [링크]() | 
+| 2747  | 피보나치 수 | [링크](https://www.acmicpc.net/problem/2747) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/recursion/boj/001-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98_%EC%88%98.java) | 
