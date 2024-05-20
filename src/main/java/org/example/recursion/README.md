@@ -15,4 +15,4 @@
 |:---:|---|:---:|:---:|
 | 2747  | 피보나치 수 | [링크](https://www.acmicpc.net/problem/2747) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/recursion/boj/001-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98_%EC%88%98.java) | 
 | 1182  | 부분수열의 합 | [링크](https://www.acmicpc.net/problem/1182) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/recursion/boj/002-%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98_%ED%95%A9.java) | 
-| 2758  | 로또 | [링크](https://www.acmicpc.net/problem/2758) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/recursion/boj/002-%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98_%ED%95%A9.java) |
+| 2758  | 로또 | [링크](https://www.acmicpc.net/problem/2758) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/recursion/boj/003-%EB%A1%9C%EB%98%90.java) |
