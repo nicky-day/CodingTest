@@ -32,18 +32,10 @@ class Main7 {
             if (operators[i] > 0) {
                 operators[i]--;
                 switch (i) {
-                    case PLUS:
-                        solve(index + 1, sum + numbers[index]);
-                        break;
-                    case MINUS:
-                        solve(index + 1, sum - numbers[index]);
-                        break;
-                    case MUL:
-                        solve(index + 1, sum * numbers[index]);
-                        break;
-                    case DIV:
-                        solve(index + 1, sum / numbers[index]);
-                        break;
+                    case PLUS -> solve(index + 1, sum + numbers[index]);
+                    case MINUS -> solve(index + 1, sum - numbers[index]);
+                    case MUL -> solve(index + 1, sum * numbers[index]);
+                    case DIV -> solve(index + 1, sum / numbers[index]);
                 }
                 operators[i]++;
             }
