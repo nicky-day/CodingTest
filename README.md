@@ -17,6 +17,7 @@
 ### [재귀 #1 순열과 조합 - Permutation and Combination](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/recursion_permutaion_and_combination/README.md)
 ### [재귀 #2 - 트리 - Tree](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/recursion_tree/README.md)
 ### [재귀 #3 재귀 - Recursion](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/recursion/README.md)
+### [재귀 #4 퇴각 검색 - Backtracking](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/recursion_backtracking/README.md)
 ### [그래프 - Graph](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/graph/README.md)
 ### [동적계획법 - Dynamic Programming](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/dynamic_programming/README.md)
 ### [우선순위 큐 - Priority Queue](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/priority_queue/README.md)
