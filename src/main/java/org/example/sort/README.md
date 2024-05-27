@@ -16,7 +16,7 @@
 백준
 ----------
 | 문제 번호 | 문제 이름 | 문제 링크 | 답안 코드 링크 |
-|:---:|---|:---:|:---:|
+|:---:|-----|:---:|:---:|
 | 2751 | 수 정렬하기 2 | [링크](https://www.acmicpc.net/problem/2751) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sort/boj/001-%EC%88%98_%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_2.java) |
 | 1181 | 단어 정렬 | [링크](https://www.acmicpc.net/problem/1181) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sort/boj/002-%EB%8B%A8%EC%96%B4_%EC%A0%95%EB%A0%AC.java) |
 | 10814 | 나이순 정렬 | [링크](https://www.acmicpc.net/problem/10814) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sort/boj/003-%EB%82%98%EC%9D%B4%EC%88%9C_%EC%A0%95%EB%A0%AC.java) |
@@ -26,4 +26,5 @@
 | 2910 | 빈도 정렬 | [링크](https://www.acmicpc.net/problem/2910) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sort/boj/007-%EB%B9%88%EB%8F%84_%EC%A0%95%EB%A0%AC.java) |
 | 1931 | 회의실 배정 | [링크](https://www.acmicpc.net/problem/1931) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sort/boj/008-%ED%9A%8C%EC%9D%98%EC%8B%A4_%EB%B0%B0%EC%A0%95.java) |
 | 1431 | 시리얼 번호 | [링크](https://www.acmicpc.net/problem/1431) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sort/boj/009-%EC%8B%9C%EB%A6%AC%EC%96%BC_%EB%B2%88%ED%98%B8.java) |
+| 18310 | 안테나 | [링크](https://www.acmicpc.net/problem/18310) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/sort/boj/010-%EC%95%88%ED%85%8C%EB%82%98.java) |
 ----------
