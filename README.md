@@ -18,6 +18,7 @@
 ### [재귀 #2 - 트리 - Tree](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/recursion_tree/README.md)
 ### [재귀 #3 재귀 - Recursion](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/recursion/README.md)
 ### [재귀 #4 퇴각 검색 - Backtracking](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/recursion_backtracking/README.md)
+### [분할 정복 - Divide and Conquer](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/divide_and_conquer/README.md)
 ### [그래프 - Graph](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/graph/README.md)
 ### [동적계획법 - Dynamic Programming](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/dynamic_programming/README.md)
 ### [우선순위 큐 - Priority Queue](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/priority_queue/README.md)
