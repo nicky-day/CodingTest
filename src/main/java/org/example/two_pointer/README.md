@@ -7,6 +7,13 @@
 | 67258 | 보석 쇼핑 | [링크](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/two_pointer/programmers/001-%EB%B3%B4%EC%84%9D_%EC%87%BC%ED%95%91.java) |
 ----------
 
+리트코드
+----------
+| 문제 번호 | 문제 이름 | 문제 링크 | 답안 코드 링크 |
+|:-----:|-----------|:---:|:---:|
+|   6   | Median of Two Sorted Arrays | [링크](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/array/leetcode/001-Two_Sum.java) |
+----------
+
 백준
 ------------
 | 문제 번호 | 문제 이름 | 문제 링크 | 답안 코드 링크 |
