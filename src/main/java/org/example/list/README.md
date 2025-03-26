@@ -4,7 +4,7 @@
 ----------
 | 문제 번호 | 문제 이름 | 문제 링크 | 답안 코드 링크 |
 |:-----:|-------|:---:|:---:|
-|   1   | Add Two Numbers | [링크](https://leetcode.com/problems/add-two-numbers/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/list/leetcode/001-Add_Two_Numbers.kt) |
+|   2   | Add Two Numbers | [링크](https://leetcode.com/problems/add-two-numbers/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/list/leetcode/001-Add_Two_Numbers.kt) |
 ----------
 백준
 ----------
