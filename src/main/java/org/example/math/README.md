@@ -7,4 +7,5 @@
 |:-----:|:-----------------:|:---:|:----------------:|
 |   7   |  Reverse Integer  | [링크](https://leetcode.com/problems/reverse-integer/description/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/math/leetcode/001-Reverse_Integer.kt) |
 |   9   | Palindrome Number | [링크](https://leetcode.com/problems/palindrome-number/description/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/math/leetcode/002-Palindrome_Number.kt) |
+|  13   | Roman to Integer  | [링크](https://leetcode.com/problems/roman-to-integer/description/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/math/leetcode/003-Roman_to_Integer.kt) |
 ----------
