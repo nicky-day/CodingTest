@@ -12,7 +12,7 @@
 | 문제 번호 | 문제 이름                       | 문제 링크 | 답안 코드 링크 |
 |:-----:|-----------------------------|:---:|:---:|
 |   6   | Median of Two Sorted Arrays | [링크](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/two_pointer/leetcode/001-Longest_Palindromic_Substring.kt) |
-|  11   | Container With Most Water   | [링크](https://leetcode.com/problems/container-with-most-water/description/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/two_pointer/leetcode/001-Longest_Palindromic_Substring.kt) |
+|  11   | Container With Most Water   | [링크](https://leetcode.com/problems/container-with-most-water/description/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/two_pointer/leetcode/002-Container_With_Most_Water.kt) |
 ----------
 
 백준
