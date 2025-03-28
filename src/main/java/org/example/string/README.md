@@ -18,10 +18,11 @@
 
 리트코드
 ----------
-| 문제 번호 | 문제 이름 | 문제 링크 | 답안 코드 링크 |
-|:-----:|-----------|:---:|:---:|
-|  344  | Reverse String    | [링크](https://leetcode.com/problems/reverse-string/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/string/leetcode/001-Reverse_String.java) |
-|   6   | Zigzag Conversion | [링크](https://leetcode.com/problems/zigzag-conversion/description/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/string/leetcode/002-Zigzag_Conversion.kt) |
+| 문제 번호 | 문제 이름                 | 문제 링크 | 답안 코드 링크 |
+|:-----:|-----------------------|:---:|:---:|
+|  344  | Reverse String        | [링크](https://leetcode.com/problems/reverse-string/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/string/leetcode/001-Reverse_String.java) |
+|   6   | Zigzag Conversion     | [링크](https://leetcode.com/problems/zigzag-conversion/description/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/string/leetcode/002-Zigzag_Conversion.kt) |
+|  14   | Longest Common Prefix | [링크](https://leetcode.com/problems/longest-common-prefix/description/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/string/leetcode/003-Longest_Common_Prefix.kt) |
 ----------
 
 백준
