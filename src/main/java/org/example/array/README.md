@@ -17,7 +17,8 @@
 |   1   | Two Sum                           | [링크](https://leetcode.com/problems/two-sum/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/array/leetcode/001-Two_Sum.java) |
 |  26   | Remove Duplicateds from Sorted Array |   [링크](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)    | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/array/leetcode/002-Remove_Duplicates_from_Sorted_Array.kt)|
 |  121  | Best Time to Buy and Sell Stock   | [링크](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/array/leetcode/003-Best-Time-to-Buy-and-Sell-Stock.kt) |
-|  122  | Best Time to Buy and Sell Stock 2 | [링크](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [링크]() |
+|  122  | Best Time to Buy and Sell Stock 2 | [링크](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/array/leetcode/004-Best-Time-to-Buy-and-Sell-Stock-2.kt) |
+|  189  | Rotate Array                    | [링크](https://leetcode.com/problems/rotate-array/) | [링크]()|
 ----------
 
 백준
