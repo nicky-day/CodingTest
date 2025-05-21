@@ -22,7 +22,8 @@
 |  217  | Contains Duplicate                  | [링크](https://leetcode.com/problems/contains-duplicate/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/array/leetcode/006-Contains-Duplicate.kt) |
 |  136 | Single Number                       | [링크](https://leetcode.com/problems/single-number/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/array/leetcode/007-Single-Number.kt) |
 | 349 |  Intersection of Two Arrays | [링크](https://leetcode.com/problems/intersection-of-two-arrays/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/array/leetcode/008-Intersection-of-Two-Arrays.kt) |
-|  350 | Intersection of Two Arrays II | [링크](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [링크]() |
+|  350 | Intersection of Two Arrays II | [링크](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/array/leetcode/009-Intersection-of-Two-Arrays-2.kt) |
+| 66  | Plus One | [링크](https://leetcode.com/problems/plus-one/) | [링크]() |
 ----------
 
 백준
