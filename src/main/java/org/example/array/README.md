@@ -26,7 +26,7 @@
 | 66  | Plus One | [링크](https://leetcode.com/problems/plus-one/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/array/leetcode/010-Plus-One.kt) |
 | 11  | Move Zeros | [링크](https://leetcode.com/problems/move-zeroes/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/array/leetcode/011-Move-Zeroes.kt)|
 | 36 | Valid Sudoku | [링크](https://leetcode.com/problems/valid-sudoku/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/array/leetcode/012-Valid-Sudoku.kt) |
-|  48 | Rotate Image | [링크](https://leetcode.com/problems/rotate-image/) | [링크]() |
+|  48 | Rotate Image | [링크](https://leetcode.com/problems/rotate-image/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/array/leetcode/013-Rotate-Image.kt) |
 
 백준
 ----------
