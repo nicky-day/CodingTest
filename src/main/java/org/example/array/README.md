@@ -12,9 +12,11 @@
 
 리트코드
 ----------
-| 문제 번호 | 문제 이름 | 문제 링크 | 답안 코드 링크 |
-|:-----:|---|:---:|:---:|
-|   1   | Two Sum | [링크](https://leetcode.com/problems/two-sum/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/array/leetcode/001-Two_Sum.java) |
+| 문제 번호 | 문제 이름                                |                                           문제 링크                                           |                                                     답안 코드 링크                                                      |
+|:-----:|--------------------------------------|:-----------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
+|   1   | Two Sum                              |                       [링크](https://leetcode.com/problems/two-sum/)                        | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/array/leetcode/001-Two_Sum.java) |
+|  26   | Remove Duplicateds from Sorted Array |   [링크](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)    |                                                      [링크]()                                                       |
+
 ----------
 
 백준
