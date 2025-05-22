@@ -24,7 +24,8 @@
 |   6   | Zigzag Conversion     | [링크](https://leetcode.com/problems/zigzag-conversion/description/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/string/leetcode/002-Zigzag_Conversion.kt) |
 |  14   | Longest Common Prefix | [링크](https://leetcode.com/problems/longest-common-prefix/description/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/string/leetcode/003-Longest_Common_Prefix.kt) |
 | 7 | Reverse Integer        | [링크](https://leetcode.com/problems/reverse-integer/) | [링크](https://leetcode.com/problems/reverse-integer/description/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/string/leetcode/004-Reverse-Integer.kt) |
-| 387 | First Unique Character in a String | [링크](https://leetcode.com/problems/first-unique-character-in-a-string/) | [링크]() |
+| 387 | First Unique Character in a String | [링크](https://leetcode.com/problems/first-unique-character-in-a-string/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/string/leetcode/005-First-Unique-Character-in-a-String.kt) |
+| 242 | Valid Anagram | [링크](https://leetcode.com/problems/valid-anagram/) | [링크]() |
 ----------
 
 백준
