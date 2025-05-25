@@ -28,7 +28,7 @@
 | 242 | Valid Anagram | [링크](https://leetcode.com/problems/valid-anagram/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/string/leetcode/006-Valid-Anagram.kt) |
 | 125 | Valid Palindrome | [링크](https://leetcode.com/problems/valid-palindrome/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/string/leetcode/007-Valid-Palindrome.kt) | 
 | 8 | String to Integer (atoi) | [링크](https://leetcode.com/problems/string-to-integer-atoi/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/string/leetcode/008-String-to-Integer.kt) |
-| 38 | Count and Say | [링크](https://leetcode.com/problems/count-and-say/) | [링크]() | 
+| 38 | Count and Say | [링크](https://leetcode.com/problems/count-and-say/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/string/leetcode/009-Count-and-Say.kt) | 
 ----------
 
 백준
