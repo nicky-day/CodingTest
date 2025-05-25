@@ -6,7 +6,8 @@
 |:-----:|-------|:---:|:---:|
 |   2   | Add Two Numbers | [링크](https://leetcode.com/problems/add-two-numbers/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/list/leetcode/001-Add_Two_Numbers.kt) |
 | 237 | Delete Node in a Linked List | [링크](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/list/leetcode/002-Delete-Node-in-a-Linked-List.kt) |
-| 19 | Remove Nth Node From End of List | [링크](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [링크]() |
+| 19 | Remove Nth Node From End of List | [링크](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/list/leetcode/003-Remove-Nth-Node-From-End-Of-List.kt) |
+| 206 | Reverse Linked List | [링크](https://leetcode.com/problems/reverse-linked-list/) | [링크]()|
 ----------
 백준
 ----------
