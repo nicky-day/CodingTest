@@ -1,6 +1,5 @@
 package org.example.recursion_tree.leetcode
 
-
 class Maximum_Depth_of_Binary_Tree_Kotlin {
     /**
      * 1. 재귀 함수를 사용하여 트리를 순회합니다.
@@ -20,22 +19,23 @@ class Maximum_Depth_of_Binary_Tree_Kotlin {
         val rightDepth = maxDepth(root.right)
         return Math.max(leftDepth, rightDepth) + 1
     }
+
+    class TreeNode(var `val`: Int) {
+        var left: TreeNode? = null
+        var right: TreeNode? = null
+    }
 }
 
-class TreeNode(var `val`: Int) {
-    var left: TreeNode? = null
-    var right: TreeNode? = null
-}
 
 fun main() {
     val maximumDepthOfBinaryTreeKotlin = Maximum_Depth_of_Binary_Tree_Kotlin()
 
     // Example usage
-    val root = TreeNode(3)
-    root.left = TreeNode(9)
-    root.right = TreeNode(20)
-    root.right!!.left = TreeNode(15)
-    root.right!!.right = TreeNode(7)
+    val root = Maximum_Depth_of_Binary_Tree_Kotlin.TreeNode(3)
+    root.left = Maximum_Depth_of_Binary_Tree_Kotlin.TreeNode(9)
+    root.right = Maximum_Depth_of_Binary_Tree_Kotlin.TreeNode(20)
+    root.right!!.left = Maximum_Depth_of_Binary_Tree_Kotlin.TreeNode(15)
+    root.right!!.right = Maximum_Depth_of_Binary_Tree_Kotlin.TreeNode(7)
 
     val depth = maximumDepthOfBinaryTreeKotlin.maxDepth(root)
     println(depth) // Output: 3
