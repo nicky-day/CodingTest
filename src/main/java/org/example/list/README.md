@@ -10,7 +10,8 @@
 | 206 | Reverse Linked List | [링크](https://leetcode.com/problems/reverse-linked-list/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/list/leetcode/004-Reverse-Linked-List.kt)|
 | 92 | Reverse Linked List II | [링크](https://leetcode.com/problems/reverse-linked-list-ii/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/list/leetcode/005-Reverse-Linked-List-2.kt)|
 | 21 | Merge Two Sorted Lists | [링크](https://leetcode.com/problems/merge-two-sorted-lists/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/list/leetcode/006-Merge-Two-Sorted-Lists.kt) |
-| 234 | Palindrome Linked List | [링크](https://leetcode.com/problems/palindrome-linked-list/) | [링크]() |
+| 234 | Palindrome Linked List | [링크](https://leetcode.com/problems/palindrome-linked-list/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/list/leetcode/007-Palindrome-Linked-List.kt) |
+| 141 | Linked List Cycle | [링크](https://leetcode.com/problems/linked-list-cycle/) | [링크]() |
 ----------
 백준
 ----------
