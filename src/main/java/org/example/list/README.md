@@ -9,6 +9,7 @@
 | 19 | Remove Nth Node From End of List | [링크](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/list/leetcode/003-Remove-Nth-Node-From-End-Of-List.kt) |
 | 206 | Reverse Linked List | [링크](https://leetcode.com/problems/reverse-linked-list/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/list/leetcode/004-Reverse-Linked-List.kt)|
 | 92 | Reverse Linked List II | [링크](https://leetcode.com/problems/reverse-linked-list-ii/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/list/leetcode/005-Reverse-Linked-List-2.kt)|
+| 21 | Merge Two Sorted Lists | [링크](https://leetcode.com/problems/merge-two-sorted-lists/) | [링크]() |
 ----------
 백준
 ----------

@@ -12,7 +12,7 @@
 | 문제 번호 | 문제 이름                        | 문제 링크 | 답안 코드 링크 |
 |:-----:|------------------------------|:---:|:---:|
 |  104  | Maximum Depth of Binary Tree | [링크](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/recursion_tree/leetcode/001-Maximum-Depth-of-Binary-Tree.kt) |
-| 111 | Minimum Depth of Binary Tree | [링크](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [링크]() |
+| 111 | Minimum Depth of Binary Tree | [링크](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [링크](https://github.com/nicky-day/CodingTest/blob/main/src/main/java/org/example/recursion_tree/leetcode/002-Minimum-Depth-of-Binary-Tree.kt) |
 ----------
 
 백준
